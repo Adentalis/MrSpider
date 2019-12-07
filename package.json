@@ -1,0 +1,25 @@
+{
+  "name": "mrspider",
+  "version": "1.0.0",
+  "description": "Hallo",
+  "main": "spidey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node spidey.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adentalis/MrSpider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adentalis/MrSpider/issues"
+  },
+  "homepage": "https://github.com/Adentalis/MrSpider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "url-parse": "^1.4.7"
+  }
+}
