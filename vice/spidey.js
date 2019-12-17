@@ -1,21 +1,53 @@
 var request = require('request');
 var cheerio = require('cheerio');
 var URL = require('url-parse');
+var myTT = require("./mytt");
 
-var START_URL = "http://www.arstechnica.com";
+var START_URL = "https://www.mytischtennis.de/public/home/";
 var SEARCH_WORD = "stemming";
 var MAX_PAGES_TO_VISIT = 10;
 
 var pagesVisited = {};
 var numPagesVisited = 0;
 var pagesToVisit = [];
+var absoluteHREFS =[];
 var url = new URL(START_URL);
 var baseUrl = url.protocol + "//" + url.hostname;
 
 pagesToVisit.push(START_URL);
-crawl();
+// crawl();
+testReq();
+
+
+function testReq(){
+  console.log("test mytt Login");
+  const url='https://www.mytischtennis.de/community/login/';
+
+  var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+  const req = new XMLHttpRequest();
+
+  
+  var FormData = require('form-data');
+  var form = new FormData();
+  form.append("userNameB", "kuchenbombe");
+  form.append("userPassWordB", "txlodydmtopz");
+  form.append("targetPage", "https://www.mytischtennis.de/community/index?fromlogin=1");
+
+
+  
+  req.open("POST", url);
+  req.setRequestHeader('Content-Type', 'application/json');
+  req.withCredentials = true;
+  req.send(form);
+  
+  req.onreadystatechange = (e) => {
+    console.log(req.responseText)
+  }
+  req.onload = () => alert(req.response);
+}
 
 function crawl() {
+  debugger;
   if(numPagesVisited >= MAX_PAGES_TO_VISIT) {
     console.log("Reached max limit of number of pages to visit.");
     return;
@@ -64,8 +96,10 @@ function searchForWord($, word) {
 
 function collectInternalLinks($) {
     var relativeLinks = $("a[href^='/']");
+    var absoluteLinks = $("a[href^='http']");
     console.log("Found " + relativeLinks.length + " relative links on page");
     relativeLinks.each(function() {
         pagesToVisit.push(baseUrl + $(this).attr('href'));
     });
+   // console.log(relativeLinks);
 }

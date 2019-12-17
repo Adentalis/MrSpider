@@ -19,7 +19,10 @@
   "homepage": "https://github.com/Adentalis/MrSpider#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "form-data": "^3.0.0",
+    "google-spreadsheet": "^2.0.8",
     "request": "^2.88.0",
-    "url-parse": "^1.4.7"
+    "url-parse": "^1.4.7",
+    "xmlhttprequest": "^1.8.0"
   }
 }
