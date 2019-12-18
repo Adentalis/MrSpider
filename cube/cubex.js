@@ -7,15 +7,15 @@ const creds = require('./client_secret.json');
 let words = [];
 
 //---------------------GAME PARAMETERS
-const AMOUNT_OF_WORDS = 50;
-const TIME_BETWEEN_EACH_WORD = 4000; //in ms
+const AMOUNT_OF_WORDS = 3;
+const TIME_BETWEEN_EACH_WORD = 1000; //in ms
 
 /*  ----GAMEMODES---
     1 = 10 Wörter kommen nacheinander und einfach merken
     2 = es kommt alle x Sekunden eine Abkürzung 
 
 */
-const GAMEMODE = 2;
+const GAMEMODE = 1;
 
 async function accessSpreadsheet() {
     console.log("Get Data from G-Sheet");
@@ -41,11 +41,16 @@ async function accessSpreadsheet() {
             value: element.value,
             col: element.col,
             row: element.row,
-            shortcut: element.value.replace(/[a-z]/g, '')
+            shortcut: element.value.replace(/[a-z]/g, ''),
+            startWithShortCut : checkStart(element)
         });
     });
 
     checkWords();
+
+    words.forEach(e=>{
+        console.log(e);
+    })
 
     switch (GAMEMODE) {
         case 1:
@@ -61,6 +66,11 @@ async function accessSpreadsheet() {
 
 accessSpreadsheet();
 
+function checkStart(e){
+    let start = e.value.substring(0,2);
+    start = start.replace(/[a-z]/g, '');
+    return start.length == 2;
+}
 
 
 //---------------------GAMEMODE 1---------------------
@@ -115,4 +125,6 @@ function checkWords() {
         }
     })
 }
+
+
 
