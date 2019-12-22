@@ -7,15 +7,17 @@ const creds = require('./client_secret.json');
 let words = [];
 
 //---------------------GAME PARAMETERS
-const AMOUNT_OF_WORDS = 3;
-const TIME_BETWEEN_EACH_WORD = 1000; //in ms
+let AMOUNT_OF_WORDS = 30;
+const TIME_BETWEEN_EACH_WORD = 3000; //in ms
+const GAMEMODE = 3;
+const filter = ".E";
 
 /*  ----GAMEMODES---
     1 = 10 Wörter kommen nacheinander und einfach merken
-    2 = es kommt alle x Sekunden eine Abkürzung 
+    2 = es kommt alle x Sekunden eine Abkürzung
+    3 = show all words of this type
 
 */
-const GAMEMODE = 1;
 
 async function accessSpreadsheet() {
     console.log("Get Data from G-Sheet");
@@ -42,21 +44,19 @@ async function accessSpreadsheet() {
             col: element.col,
             row: element.row,
             shortcut: element.value.replace(/[a-z]/g, ''),
-            startWithShortCut : checkStart(element)
+            startWithShortCut: checkStart(element)
         });
     });
 
     checkWords();
 
-    words.forEach(e=>{
-        console.log(e);
-    })
-
     switch (GAMEMODE) {
         case 1:
-            startShow(0, getRandom(words, AMOUNT_OF_WORDS));
+            startShow(0, getRandom(words));
             break;
-        case 2: show1ShortcutAfterAnother(0, getRandom(words, AMOUNT_OF_WORDS));
+        case 2: show1ShortcutAfterAnother(0, getRandom(words));
+            break;
+        case 3: showFilterdWords(words);
             break;
         default:
             break;
@@ -66,8 +66,29 @@ async function accessSpreadsheet() {
 
 accessSpreadsheet();
 
-function checkStart(e){
-    let start = e.value.substring(0,2);
+
+function showFilterdWords(words){
+    console.log("Gamemode 3 - show filtered words -->",filter);
+
+    let filteredWords = [];
+
+    words.forEach(e =>{
+        if(e.shortcut.charAt(0) === filter.charAt(0)){
+            filteredWords.push(e);
+        }
+
+        if(e.shortcut.charAt(1) === filter.charAt(1)){
+            filteredWords.push(e);
+        }
+
+    });
+
+    show1ShortcutAfterAnother(0, filteredWords);
+
+}
+
+function checkStart(e) {
+    let start = e.value.substring(0, 2);
     start = start.replace(/[a-z]/g, '');
     return start.length == 2;
 }
@@ -102,15 +123,15 @@ function show1ShortcutAfterAnother(c, words) {
 }
 
 //get n random elements of an array
-function getRandom(arr, n) {
-    var result = new Array(n),
+function getRandom(arr) {
+    var result = new Array(AMOUNT_OF_WORDS),
         len = arr.length,
         taken = new Array(len);
-    if (n > len)
+    if (AMOUNT_OF_WORDS > len)
         throw new RangeError("getRandom: more elements taken than available");
-    while (n--) {
+    while (AMOUNT_OF_WORDS--) {
         var x = Math.floor(Math.random() * len);
-        result[n] = arr[x in taken ? taken[x] : x];
+        result[AMOUNT_OF_WORDS] = arr[x in taken ? taken[x] : x];
         taken[x] = --len in taken ? taken[len] : len;
     }
     return result;
