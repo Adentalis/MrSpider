@@ -7,10 +7,10 @@ const creds = require('./client_secret.json');
 let words = [];
 
 //---------------------GAME PARAMETERS
-let AMOUNT_OF_WORDS = 30;
-const TIME_BETWEEN_EACH_WORD = 3000; //in ms
+var AMOUNT_OF_WORDS = 40;
+const TIME_BETWEEN_EACH_WORD =2500; //in ms
 const GAMEMODE = 3;
-const filter = ".E";
+const filter = "L.";
 
 /*  ----GAMEMODES---
     1 = 10 Wörter kommen nacheinander und einfach merken
@@ -82,6 +82,7 @@ function showFilterdWords(words){
         }
 
     });
+    filteredWords = shuffle(filteredWords);
 
     show1ShortcutAfterAnother(0, filteredWords);
 
@@ -96,7 +97,7 @@ function checkStart(e) {
 
 //---------------------GAMEMODE 1---------------------
 function startShow(counter, words) {
-    if (counter < AMOUNT_OF_WORDS) {
+    if (counter < 10) {
         setTimeout(function () {
             counter++;
             console.log(counter, words[counter - 1].value);
@@ -110,11 +111,11 @@ function show1ShortcutAfterAnother(c, words) {
 
     setTimeout(function () {
         c++;
-        console.log(words[c].shortcut);
+        console.log(words[c-1].shortcut);
         show1ShortcutAfterAnother(c, words);
 
         setTimeout(function () {
-            console.log(words[c].value);
+            console.log(words[c-1].value);
             console.log("------------")
         }, TIME_BETWEEN_EACH_WORD / 2);
 
@@ -139,13 +140,23 @@ function getRandom(arr) {
 
 //check everyword if its shortcut has 2 Uppercase letters
 function checkWords() {
-    console.log("chek all words ")
+    console.log("chek all words ",words.length);
     words.forEach(e => {
         if (e.shortcut.length !== 2) {
             console.log(e.value, "ist falsch!!")
         }
     })
 }
+
+function shuffle(array) {
+    const TIMES = array.length;
+    for (let i = 0; i < TIMES; i++) {
+      const first = Math.floor(Math.random() * array.length);
+      const second = Math.floor(Math.random() * array.length);
+      [array[first], array[second]] = [array[second], array[first]];
+    }
+    return array;
+  }
 
 
 
