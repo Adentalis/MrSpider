@@ -5,7 +5,7 @@
   "main": "spidey.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node spidey.js"
+    "start": "node vice/spidey.js"
   },
   "repository": {
     "type": "git",
