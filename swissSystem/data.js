@@ -1,5 +1,3 @@
-const { drawRound } = require("./drawing.js");
-const { createPlayersFromJSON, updatePlayers } = require("./player");
 const tournamentJSON15Players = {
   tournament: {
     "end-date": "2019-05-25",
@@ -351,14 +349,5 @@ const tournamentJSON15Players = {
     }
   }
 };
-let players = createPlayersFromJSON(tournamentJSON15Players);
 
-console.log("rk");
-
-const roundsToPlay = 6;
-
-for (let round = 1; round <= roundsToPlay; round++) {
-  let matches = drawRound(players);
-  players = updatePlayers(players, matches);
-  console.log("gg");
-}
+module.exports = { tournamentJSON15Players };
