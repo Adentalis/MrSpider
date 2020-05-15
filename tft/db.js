@@ -5,7 +5,7 @@ initAllTeams();
 
 //create filter requests
 //give me teams with specific champion
-let filterResOne = filterByChampion("Jax", teams);
+let filterResOne = filterByChampion("Yasou", teams);
 
 //give me teams with specific champions
 let championsInTeam = ["Veigar", "Zyra", "Kindred"];
@@ -13,10 +13,14 @@ let filterResAll = filterByChampions(championsInTeam, teams);
 
 //give me teams with specific synergie
 let filterSynergy = filterBySynergy("INFERNO", teams);
+let withoutYi = filterByNoChampion("Zed", filterSynergy);
 
 //give me teams with specific synergiies
 let synergiesInTeam = ["SUMMONER", "GLACIAL", "DESERT"];
 let filterSynergies = filterBySynergies(synergiesInTeam, teams);
+let sortedTeam = sortTeamsBy(filterSynergies, "teamCosts");
+
+analyseTeam(teams);
 
 //init functions
 function initAllTeams() {
@@ -75,10 +79,10 @@ function initAllTeams() {
 }
 
 //filter functions
-function filterByChampion(championNname, teamToFilter) {
+function filterByChampion(championName, teamToFilter) {
   let dummmy = [];
   teamToFilter.forEach(e => {
-    if (e.champions.includes(championNname)) {
+    if (e.champions.includes(championName)) {
       dummmy.push(e);
     }
   });
@@ -91,6 +95,16 @@ function filterByChampions(championNames, teamToFilter) {
     dummy = filterByChampion(e, dummy);
   });
   return dummy;
+}
+
+function filterByNoChampion(championName, teamToFilter) {
+  let dummmy = [];
+  teamToFilter.forEach(e => {
+    if (!e.champions.includes(championName)) {
+      dummmy.push(e);
+    }
+  });
+  return dummmy;
 }
 
 function filterBySynergy(synergyToFilter, teamToFilter) {
@@ -109,6 +123,41 @@ function filterBySynergies(synergiesToFilter, teamToFilter) {
     dummy = filterBySynergy(e, dummy);
   });
   return dummy;
+}
+
+//statistic functions
+function analyseTeam(teamToAnalyse) {
+  console.log("Team to analyse contains " + teamToAnalyse.length + " teams");
+  //championsCounter is a hashmap -> champions : counter
+  let championCounter = [];
+  teamToAnalyse.forEach(team => {
+    team.champions.forEach(champ => {
+      if (champ in championCounter) {
+        championCounter[champ] = championCounter[champ] + 1;
+      } else {
+        championCounter[champ] = 1;
+      }
+    });
+  });
+
+  for (var champion in championCounter) {
+    console.log(
+      "Key: " +
+        champion +
+        "--> Value: " +
+        championCounter[champion] +
+        " --> " +
+        ((championCounter[champion] / teamToAnalyse.length) * 100).toFixed(2) +
+        "%"
+    );
+  }
+}
+
+//helper functions
+function sortTeamsBy(teams, selector) {
+  return teams.sort((teamA, teamB) => {
+    return teamB[selector] - teamA[selector];
+  });
 }
 
 console.log("e");
