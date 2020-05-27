@@ -1,0 +1,2804 @@
+﻿1
+00:00:06,000 --> 00:00:07,280
+So...
+
+2
+00:00:07,520 --> 00:00:09,459
+All dies begann ...
+
+3
+00:00:10,260 --> 00:00:12,440
+... am 3. Januar 2009
+
+4
+00:00:12,440 --> 00:00:15,399
+mit der gleichzeitigen Veröffentlichung eines Papers,
+
+5
+00:00:15,900 --> 00:00:17,900
+sowie eines Programms
+
+6
+00:00:18,520 --> 00:00:21,300
+von einem anonymen Internet-Nutzer
+
+7
+00:00:21,580 --> 00:00:23,459
+namens "Satoshi Nakamoto".
+
+8
+00:00:23,800 --> 00:00:26,140
+Diese(r) schlug ein Geldsystem vor,
+
+9
+00:00:26,580 --> 00:00:29,560
+welches sich ähnlich "elektronischem Bargeld" verhält,
+
+10
+00:00:29,940 --> 00:00:33,580
+jedoch mit einigen einzigartigen Eigenschaften.
+
+11
+00:00:33,660 --> 00:00:35,839
+Ein DEZENTRALES System.
+
+12
+00:00:35,840 --> 00:00:37,820
+Das heißt, niemand kontrolliert es.
+
+13
+00:00:37,980 --> 00:00:41,940
+Ein System mit bestimmten mathematischen Eigenschaften.
+
+14
+00:00:42,600 --> 00:00:47,580
+Es ermöglicht ein Phänomen namens "Digitale Seltenheit".
+
+15
+00:00:47,800 --> 00:00:53,239
+Dies bedeutet, dass Sie etwas haben können, das zum einen digital und gleichzeitig knapp ist.
+
+16
+00:00:53,460 --> 00:00:55,260
+Es kann nicht kopiert werden.
+
+17
+00:00:55,580 --> 00:00:57,540
+Es klingt wie eine Antithese, richtig?
+
+18
+00:00:57,540 --> 00:01:00,660
+Wenn Sie an digitale Informationen denken,
+
+19
+00:01:01,100 --> 00:01:06,860
+so ist die Quintessenz der digitalen Information, dass sie frei kopiert werden kann.
+
+20
+00:01:07,040 --> 00:01:10,940
+Sie können nahezu kostenlos fast unbegrenzt Kopien davon erstellen.
+
+21
+00:01:11,360 --> 00:01:13,000
+Bei Bitcoin nicht!
+
+22
+00:01:13,260 --> 00:01:15,260
+Sie können nicht unendliche Kopien davon erstellen.
+
+23
+00:01:15,680 --> 00:01:17,960
+Sie können sie nicht kostenlos erstellen.
+
+24
+00:01:18,420 --> 00:01:22,140
+Diese Idee einer "digitalen Sache",
+
+25
+00:01:23,160 --> 00:01:28,220
+die gleichzeitig selten und nicht kopierbar ist,
+
+26
+00:01:28,300 --> 00:01:32,340
+war eine einzigartige und revolutionäre Erfindung.
+
+27
+00:01:32,400 --> 00:01:34,500
+Nie zuvor geschehen.
+
+28
+00:01:34,760 --> 00:01:39,500
+In Kombination mit einem Nutzer-zu-Nutzer-Netzwerk (Peer-to-Peer),
+
+29
+00:01:39,700 --> 00:01:41,560
+einem dezentralen Netzwerk,
+
+30
+00:01:41,620 --> 00:01:45,880
+ermöglicht es Netzwerkteilnehmern sich gegenseitig zu validieren.
+
+31
+00:01:46,000 --> 00:01:48,280
+Wenn ich eine Transaktion mache,
+
+32
+00:01:48,480 --> 00:01:52,440
+wird jeder, der die Bitcoin-Software verwendet,
+
+33
+00:01:52,600 --> 00:01:59,640
+alle Aspekte meiner Transaktion validieren, verifizieren und überprüfen
+
+34
+00:02:00,560 --> 00:02:01,480
+Und ...
+
+35
+00:02:01,700 --> 00:02:02,820
+Schlussendlich ...
+
+36
+00:02:02,820 --> 00:02:08,660
+Ein offenes System zur Sicherung und Aneinanderreihung von Transaktionen,
+
+37
+00:02:08,660 --> 00:02:12,980
+welches sicherstellt, dass dar selbe Betrag nicht doppelt ausgeben werden kann.
+
+38
+00:02:13,020 --> 00:02:16,280
+Das ist die Lösung eines grundlegenden Problems in verteilten Systemen.
+
+39
+00:02:16,280 --> 00:02:21,000
+Die Bereitstellung einer Lösung für "Das Problem der byzantinischen Generäle".
+
+40
+00:02:21,100 --> 00:02:24,519
+Ein klassisches Problem in dezentralen Systemen.
+
+41
+00:02:24,780 --> 00:02:26,560
+Die Grundidee hierbei ist:
+
+42
+00:02:26,940 --> 00:02:30,540
+Woher weiß man, ob ich mein digitales Geld ausgegeben habe?
+
+43
+00:02:30,540 --> 00:02:33,579
+Ich könnte es einem Händler gegeben haben,
+
+44
+00:02:33,580 --> 00:02:41,000
+aber was hält mich davon ab, die gleichen digitalen Informationen erneut zu verwenden?
+
+45
+00:02:41,180 --> 00:02:46,080
+Bis zur Erfindung von Bitcoin gab es darauf nur eine angemessene Antwort:
+
+46
+00:02:46,360 --> 00:02:51,080
+Sie müssen alle Transaktionen von einer zentralen Autorität aufzeichnen lassen
+
+47
+00:02:51,140 --> 00:02:54,619
+und diese zentrale Autorität, wird die erste Transaktion registrieren
+
+48
+00:02:54,680 --> 00:02:57,260
+und die zweite Transaktion nicht zulassen.
+
+49
+00:02:57,320 --> 00:02:58,840
+Das funktioniert.
+
+50
+00:02:59,000 --> 00:03:00,180
+Es ist effizient.
+
+51
+00:03:00,560 --> 00:03:01,940
+Es ist sehr effizient.
+
+52
+00:03:01,940 --> 00:03:03,120
+VISA macht es.
+
+53
+00:03:03,600 --> 00:03:07,019
+Wenn Sie etwas für $10 in einem Geschäft mit VISA kaufen,
+
+54
+00:03:07,020 --> 00:03:08,740
+anschließend die Straße überqueren
+
+55
+00:03:08,740 --> 00:03:10,760
+und etwas anderes für $10 kaufen,
+
+56
+00:03:10,880 --> 00:03:15,240
+wird sichergestellt, dass Sie mindestens $20 auf Ihrem Konto haben.
+
+57
+00:03:15,820 --> 00:03:18,900
+Ihnen ist es nicht erlaubt den gleichen Betrag zweimal auszugeben.
+
+58
+00:03:18,900 --> 00:03:21,600
+Man wird nicht zulassen, dass Sie mehr ausgeben, als Sie besitzen
+
+59
+00:03:21,600 --> 00:03:24,140
+oder Ihre Kreditlinie es Ihnen erlaubt.
+
+60
+00:03:24,440 --> 00:03:25,520
+Ausgezeichnet.
+
+61
+00:03:25,520 --> 00:03:31,180
+Diese Systeme funktionieren, sind effizient und können hunderttausende Transaktionen pro Sekunde ausführen,
+
+62
+00:03:31,320 --> 00:03:34,140
+aber es gibt ein kleines Problem.
+
+63
+00:03:34,900 --> 00:03:40,200
+Sie vertrauen einer einzelnen Organisation, einem einzelnen Unternehmen
+
+64
+00:03:40,200 --> 00:03:43,220
+Sie vertrauen diesem Unternehmen das richtige zu tun,
+
+65
+00:03:43,220 --> 00:03:45,620
+weil sie einen guten Job machen.
+
+66
+00:03:45,800 --> 00:03:47,780
+Mit diesem Vertrauen kommt Macht.
+
+67
+00:03:47,780 --> 00:03:49,300
+Enorm viel Macht!
+
+68
+00:03:49,520 --> 00:03:51,200
+Die Macht zu verweigern
+
+69
+00:03:51,440 --> 00:03:53,040
+Ihre Transaktion anzunehmen
+
+70
+00:03:53,180 --> 00:03:55,400
+Die Macht Ihnen ein Konto zu verwehren.
+
+71
+00:03:55,440 --> 00:03:58,040
+Die Macht Ihnen die Teilhabe zu verweigern
+
+72
+00:03:58,180 --> 00:04:00,240
+in einer wirtschaftlichen Tätigkeit.
+
+73
+00:04:00,340 --> 00:04:03,700
+Die Macht zu verlangen, dass Sie sich zuerst ausweisen.
+
+74
+00:04:04,080 --> 00:04:06,220
+Zeig deine Papiere!
+
+75
+00:04:06,560 --> 00:04:08,860
+Weise deine Kreditwürdigkeit nach!
+
+76
+00:04:09,360 --> 00:04:10,480
+Richtig?
+
+77
+00:04:10,760 --> 00:04:14,959
+Das unterscheidet sich von bisherigen Geldsystemen,
+
+78
+00:04:15,080 --> 00:04:18,260
+denn Ich kann Bargeld ohne meinen Ausweis verwenden.
+
+79
+00:04:18,320 --> 00:04:20,260
+Ohne meine Kreditwürdigkeit nachzuweisen.
+
+80
+00:04:20,260 --> 00:04:22,260
+Ich habe keine Mittler.
+
+81
+00:04:22,260 --> 00:04:24,039
+Ich zahle keine Transaktionsgebühr.
+
+82
+00:04:24,040 --> 00:04:25,480
+Ich brauche keine speziellen Geräte.
+
+83
+00:04:25,500 --> 00:04:28,720
+Ich kann direkt von Mensch zu Mensch handeln.
+
+84
+00:04:28,920 --> 00:04:33,280
+Wenn Sie den Mittler einschalten, haben Sie ein Problem.
+
+85
+00:04:34,220 --> 00:04:37,540
+Nehmen wir an, ich habe hier eine VISA-Karte
+
+86
+00:04:37,680 --> 00:04:40,440
+und möchte einem von Ihnen $10 geben.
+
+87
+00:04:40,920 --> 00:04:42,880
+Wer kann meine VISA-Karte akzeptieren?
+
+88
+00:04:42,940 --> 00:04:43,700
+Heute.
+
+89
+00:04:43,800 --> 00:04:45,240
+Unter diesen Teilnehmern.
+
+90
+00:04:46,440 --> 00:04:47,340
+Jemand?
+
+91
+00:04:47,340 --> 00:04:48,900
+Kann jemand meine VISA-Karte annehmen?
+
+92
+00:04:48,900 --> 00:04:50,679
+Ich gebe ihnen $10 VISA-Karten Guthaben
+
+93
+00:04:50,680 --> 00:04:51,360
+Jemand?
+
+94
+00:04:51,640 --> 00:04:53,080
+Nicht in Ihrem Geschäft.
+
+95
+00:04:53,080 --> 00:04:54,580
+In Ihrer persönlichen Eigenschaft.
+
+96
+00:04:54,760 --> 00:04:56,700
+Wer akzeptiert hier VISA?
+
+97
+00:04:57,060 --> 00:04:58,100
+Niemand!
+
+98
+00:04:58,600 --> 00:05:00,100
+Keine einzige Person!
+
+99
+00:05:00,840 --> 00:05:03,900
+Weil es nicht mehr darum geht, dass Menschen Menschen bezahlen.
+
+100
+00:05:04,000 --> 00:05:08,720
+Es geht darum, dass Leute Firmen bezahlen, die Firmen bezahlen, die vielleicht Leute bezahlen.
+
+101
+00:05:08,940 --> 00:05:09,900
+Richtig?
+
+102
+00:05:10,140 --> 00:05:12,099
+Bitcoin ist Nutzer-zu-Nutzer!
+
+103
+00:05:12,260 --> 00:05:14,940
+Unsere traditionellen Finanzsysteme sind heutzutage
+
+104
+00:05:15,140 --> 00:05:19,440
+Nutzer-zu-Konzern-zu-Konzern-zu-Konzern-zu-Nutzer.
+
+105
+00:05:19,620 --> 00:05:21,640
+Jeder nimmt sich einen Teil.
+
+106
+00:05:21,780 --> 00:05:25,400
+Jeder fügt dem System seine Macht hinzu.
+
+107
+00:05:25,760 --> 00:05:28,140
+Sie nutzen das sehr aus.
+
+108
+00:05:28,280 --> 00:05:30,280
+Was ist das Endergebnis?
+
+109
+00:05:30,940 --> 00:05:34,320
+Milliarden von Menschen ohne Zugang zum Bankensystem!
+
+110
+00:05:34,540 --> 00:05:37,480
+Milliarden von Menschen, die niemals ein Bankkonto haben werden!
+
+111
+00:05:37,520 --> 00:05:39,880
+Viele von ihnen haben nicht einmal einen Ausweis!
+
+112
+00:05:40,060 --> 00:05:42,600
+Andere können sich vielleicht ausweisen,
+
+113
+00:05:42,660 --> 00:05:47,840
+aber es mangelt ihnen an Bildung und notwendigen Fähigkeiten, um ernsthaft eine Bank zu betreten.
+
+114
+00:05:47,840 --> 00:05:49,419
+Oder sie sehen "falsch" aus.
+
+115
+00:05:49,420 --> 00:05:53,740
+Oder sie haben die "falsche" Rasse, Kaste oder Religion. Die "Unberührbaren".
+
+116
+00:05:53,840 --> 00:05:58,640
+Sie können keine Bank betreten, ohne vor die Tür gesetzt zu werden, bevor sie überhaupt am Schalter sind.
+
+117
+00:05:58,880 --> 00:06:00,980
+Dies geschieht auf der ganzen Welt
+
+118
+00:06:01,100 --> 00:06:08,100
+und es steht in Zusammenhang mit der Tatsache, dass wir unser Geld unter diesen Akteuren zentralisieren.
+
+119
+00:06:08,760 --> 00:06:10,340
+Bitcoin ist anders!
+
+120
+00:06:10,760 --> 00:06:17,320
+Es ermöglicht uns auf fundamentaler Ebene digitales Geld wie Bargeld zu nutzen.
+
+121
+00:06:18,460 --> 00:06:23,880
+Am Ende diesen Tages sind alle in diesem Raum dazu befähigt Bitcoins zu erhalten.
+
+122
+00:06:24,200 --> 00:06:25,180
+Sofort!
+
+123
+00:06:25,180 --> 00:06:26,640
+Unter ihrer Kontrolle!
+
+124
+00:06:26,860 --> 00:06:30,100
+Mit einem Programm auf Ihrem Smartphones!
+
+125
+00:06:31,040 --> 00:06:33,240
+Und an diesem Punkt
+
+126
+00:06:33,540 --> 00:06:36,160
+kann ich sie bezahlen und Sie können mich bezahlen.
+
+127
+00:06:36,300 --> 00:06:37,740
+Wir können handeln.
+
+128
+00:06:37,920 --> 00:06:40,200
+Auf lokaler Ebene als eine Gemeinschaft.
+
+129
+00:06:40,620 --> 00:06:43,480
+Ohne Beteiligung eines Dritten!
+
+130
+00:06:43,700 --> 00:06:47,719
+Kein Mittler, kein Konzern, welcher Macht über uns ausübt!
+
+131
+00:06:48,320 --> 00:06:51,719
+Ohne die Notwendigkeit einen Ausweis vorzulegen!
+
+132
+00:06:52,300 --> 00:06:56,300
+Ohne die Erfüllung einer Kreditwürdigkeit!
+
+133
+00:06:57,180 --> 00:07:00,420
+Sie erfüllen die menschliche Würde!
+
+134
+00:07:00,580 --> 00:07:02,260
+Genau genommen,
+
+135
+00:07:02,460 --> 00:07:04,460
+erfordert das Bitcoin nicht einmal.
+
+136
+00:07:05,080 --> 00:07:08,060
+Sie müssen nicht zwingend Mensch sein, um Bitcoin zu nutzen.
+
+137
+00:07:08,460 --> 00:07:13,739
+Ein Programm kann Bitcoin ohne die Einbeziehung von Menschen verwenden.
+
+138
+00:07:14,000 --> 00:07:15,620
+Autonome Programme.
+
+139
+00:07:16,700 --> 00:07:21,320
+So hat diese Erfindung von 2009 eine völlig neue Ära eingeleitet.
+
+140
+00:07:22,160 --> 00:07:26,460
+Dies ist nicht NUR eine "seltsame" Form von PayPal.
+
+141
+00:07:27,160 --> 00:07:31,160
+Dies ist kein neues Zahlungssystem.
+
+142
+00:07:32,100 --> 00:07:34,360
+Es ist eine Erfindung,
+
+143
+00:07:34,820 --> 00:07:39,820
+die sich einem obskuren Zweig der Mathematik, der "Kryptografie", bedient.
+
+144
+00:07:41,560 --> 00:07:45,620
+Dies ist die Kunst der Geheimschriften
+
+145
+00:07:46,120 --> 00:07:48,060
+unter Verwendung der Mathematik
+
+146
+00:07:49,080 --> 00:07:51,919
+Dieser obskure Zweig der Mathematik wird dazu verwendet
+
+147
+00:07:52,300 --> 00:07:55,700
+seinen Wirkungsbereich auszuweiten, zur Schaffung von
+
+148
+00:07:55,860 --> 00:07:57,340
+VERTRAUEN
+
+149
+00:07:57,340 --> 00:07:59,419
+unter den Systemteilnehmern,
+
+150
+00:07:59,420 --> 00:08:02,220
+ohne irgendjemandem Kontrolle über das System zu geben.
+
+151
+00:08:02,400 --> 00:08:05,979
+Diese einzigartige Eigenschaft macht Bitcoin zu etwas Besonderem.
+
+152
+00:08:06,280 --> 00:08:12,039
+Wenn Sie jemandem Geld senden können, ohne ihn zu kennen, ohne ihm zu vertrauen,
+
+153
+00:08:12,040 --> 00:08:14,300
+ohne irgendjemandem zu vertrauen,
+
+154
+00:08:14,380 --> 00:08:16,820
+weil Sie dem System vertrauen können
+
+155
+00:08:17,040 --> 00:08:22,380
+und die mathematischen Regeln im System garantieren, dass das erhaltene Geld
+
+156
+00:08:22,840 --> 00:08:24,619
+ECHT ist,
+
+157
+00:08:25,600 --> 00:08:27,460
+FÄLSCHUNGSSICHER ist,
+
+158
+00:08:27,820 --> 00:08:32,419
+VERWENDBAR ist, nachdem es nach ca. 10 Minuten bestätigt wurde
+
+159
+00:08:33,440 --> 00:08:38,240
+und für Sie NÜTZLICH ist, um weitere Zahlungen zu tätigen.
+
+160
+00:08:38,940 --> 00:08:42,800
+Sie müssen die Person nicht kennen, die es Ihnen gegeben hat.
+
+161
+00:08:42,960 --> 00:08:46,180
+Der modernen Finanzwelt erscheint das seltsam
+
+162
+00:08:46,260 --> 00:08:49,180
+und dennoch praktizieren wir dies jeden Tag mit Bargeld.
+
+163
+00:08:49,260 --> 00:08:51,939
+Wenn ich meinem Taxifahrer Trinkgeld gebe,
+
+164
+00:08:52,340 --> 00:08:54,520
+mit einer 2.000 Rupien-Banknote,
+
+165
+00:08:54,560 --> 00:08:57,359
+was zu viel ist... aber wenn ich es getan hätte...
+
+166
+00:09:00,620 --> 00:09:03,240
+Braucht man meinen Ausweis?
+
+167
+00:09:03,780 --> 00:09:08,740
+Muss man meine Transaktion verarbeiten? Muss man eine Transaktionsgebühr zahlen? Nein!
+
+168
+00:09:08,920 --> 00:09:13,699
+Das Bargeld selbst ist die Repräsentation des Wertes
+
+169
+00:09:13,760 --> 00:09:16,200
+und um zu bestätigen, dass es real ist,
+
+170
+00:09:16,740 --> 00:09:21,040
+kann die Person, die es empfängt, es immerhin gegen das Licht halten,
+
+171
+00:09:21,400 --> 00:09:22,880
+auf der Suche nach einem Wasserzeichen
+
+172
+00:09:22,880 --> 00:09:25,060
+und Überprüfen, dass es nicht falsch ist.
+
+173
+00:09:25,240 --> 00:09:27,360
+Sie können es selbst tun.
+
+174
+00:09:27,360 --> 00:09:33,900
+Sie müssen niemanden anrufen und sagen: "Ich habe die Seriennummer 1323532"
+
+175
+00:09:34,160 --> 00:09:35,719
+"Ist das echt?"
+
+176
+00:09:36,020 --> 00:09:39,760
+Sie müssen nicht mit einer dritten Person oder einer zentralen Stelle sprechen.
+
+177
+00:09:39,920 --> 00:09:43,160
+Sie können mit eigenen Augen verifizieren, dass dies echtes Geld ist.
+
+178
+00:09:43,360 --> 00:09:46,420
+Bitcoin übersetzt dies in den digitalen Bereich.
+
+179
+00:09:46,420 --> 00:09:48,800
+Wenn Sie eine Bitcoin-Transaktion erhalten,
+
+180
+00:09:49,260 --> 00:09:57,520
+kann das von Ihnen verwendete Programm unabhängig und mit Gewissheit sagen, ob sie echt ist.
+
+181
+00:09:58,080 --> 00:10:00,640
+Ohne jemanden zu fragen.
+
+182
+00:10:00,840 --> 00:10:02,680
+Ohne jemanden zu überprüfen.
+
+183
+00:10:03,020 --> 00:10:07,520
+Und an diesem Punkt ist die Identität des Senders irrelevant,
+
+184
+00:10:07,820 --> 00:10:09,440
+da der Wert bereits da ist.
+
+185
+00:10:09,440 --> 00:10:11,500
+Sie müssen ihm nicht vertrauen.
+
+186
+00:10:12,340 --> 00:10:14,260
+Das ist revolutionär!
+
+187
+00:10:14,760 --> 00:10:20,560
+Es ist in einer Hinsicht revolutionär, den wir in meiner Generation bereits zuvor gesehen haben
+
+188
+00:10:20,560 --> 00:10:23,939
+und das war die Einführung des Internets.
+
+189
+00:10:24,520 --> 00:10:30,020
+Viele Menschen, die mit dem Internet aufgewachsen sind, missverstehen auch heute noch grundsätzlich,
+
+190
+00:10:30,240 --> 00:10:32,240
+weshalb das Internet etwas Besonderes ist.
+
+191
+00:10:32,620 --> 00:10:36,820
+Sie begreifen das Internet als eine Möglichkeit etwas zu veröffentlichen,
+
+192
+00:10:37,120 --> 00:10:39,520
+ein System von Inhalten.
+
+193
+00:10:40,440 --> 00:10:43,880
+Aber wir hatten Möglichkeiten etwas zu veröffentlichen bevor es das Internet gab.
+
+194
+00:10:43,880 --> 00:10:46,560
+Wir hatten digitale Publikationen bevor es das Internet gab.
+
+195
+00:10:46,560 --> 00:10:49,939
+Wir hatten Möglichkeiten Inhalte zu verbreiten bevor es das Internet gab.
+
+196
+00:10:50,120 --> 00:10:52,540
+Was änderte sich jedoch mit dem Internet?
+
+197
+00:10:52,600 --> 00:10:55,420
+Das erste Mal in der Geschichte
+
+198
+00:10:55,480 --> 00:10:59,280
+gab es eine globale Freiheit
+
+199
+00:10:59,500 --> 00:11:01,760
+für den Informationsfluss.
+
+200
+00:11:02,240 --> 00:11:05,780
+Es erlaubte den freien Informationsfluss
+
+201
+00:11:05,920 --> 00:11:07,620
+in der ganzen Welt,
+
+202
+00:11:07,880 --> 00:11:14,020
+für jeden, der die technische Fähigkeit besitzt, sich mit dem Internet zu verbinden.
+
+203
+00:11:14,420 --> 00:11:20,300
+Und solange Sie diese technische Fähigkeit haben, interessiert es das Internet nicht wer Sie sind,
+
+204
+00:11:20,760 --> 00:11:22,380
+wie alt Sie sind,
+
+205
+00:11:22,460 --> 00:11:27,980
+ob Sie ein Mensch oder ein Programm sind bzw. welche Religion, Rasse oder Geschlecht Sie haben.
+
+206
+00:11:28,040 --> 00:11:33,599
+Es gewährt Ihnen die Macht des freien Informationsflusses ohne jegliche Einschränkungen.
+
+207
+00:11:34,140 --> 00:11:36,199
+Das ist die Magie des Internets!
+
+208
+00:11:36,360 --> 00:11:40,320
+Das ist die transformierende Kraft dieser Technologie.
+
+209
+00:11:40,500 --> 00:11:43,520
+Der FREIE INFORMATIONSFLUSS.
+
+210
+00:11:43,760 --> 00:11:46,860
+Und für viele Menschen ist das beängstigend.
+
+211
+00:11:48,640 --> 00:11:53,960
+Die Idee, dass jeder alles sagen und jeder alles lesen kann,
+
+212
+00:11:54,300 --> 00:11:56,859
+jeder über alles reden kann,
+
+213
+00:11:57,020 --> 00:12:04,780
+ohne Kontrolle, ohne Lizenz, ohne Abschluss, ohne Diplom, ohne Zertifikat, ohne Identität,
+
+214
+00:12:05,000 --> 00:12:06,700
+ohne Zensur.
+
+215
+00:12:07,380 --> 00:12:09,160
+Es ist "beängstigend".
+
+216
+00:12:09,900 --> 00:12:13,079
+Für meine Generation und die kommenden Generationen
+
+217
+00:12:13,340 --> 00:12:15,220
+ist es nicht nur befreiend,
+
+218
+00:12:15,480 --> 00:12:17,200
+es ist normal.
+
+219
+00:12:17,460 --> 00:12:20,700
+Es ist so wie die Dinge schon immer waren
+
+220
+00:12:20,940 --> 00:12:24,220
+und wie die Dinge sein sollten.
+
+221
+00:12:25,060 --> 00:12:31,719
+Bitcoin erschafft erstmals exakt die gleichen Umstände in der Kategorie "Geld".
+
+222
+00:12:32,200 --> 00:12:35,100
+Es ermöglicht den freien Geldfluss
+
+223
+00:12:35,380 --> 00:12:37,840
+und gleichermaßen den freien Fluss von Vertrauen.
+
+224
+00:12:38,000 --> 00:12:41,400
+Über die ganze Welt. Für jedermann. Ungeachtet.
+
+225
+00:12:41,960 --> 00:12:46,520
+Einfach mittels freiwilliger Teilnahme durch das Herunterladen einer Anwendung.
+
+226
+00:12:46,760 --> 00:12:48,760
+Der FREIE FLUSS des GELDES.
+
+227
+00:12:49,160 --> 00:12:51,140
+Der FREIE FLUSS von WERTEN.
+
+228
+00:12:51,660 --> 00:12:53,800
+Die FREIE UMGANG mit VERTRAUEN.
+
+229
+00:12:53,800 --> 00:12:55,719
+Darum geht es!
+
+230
+00:12:55,720 --> 00:12:57,660
+Es ist kein Investitionsprogramm!
+
+231
+00:12:57,780 --> 00:12:59,600
+Es ist kein Zahlungsnetzwerk!
+
+232
+00:12:59,660 --> 00:13:02,620
+Es ist keine seltsame Version von PayPal!
+
+233
+00:13:03,160 --> 00:13:09,280
+Es ist die Erweiterung der Freiheiten des Internets um den freien Fluss des Geldes.
+
+234
+00:13:09,660 --> 00:13:13,800
+Ich garantiere Ihnen, dass dies für viele eine beängstigende Idee ist.
+
+235
+00:13:14,240 --> 00:13:18,200
+Die Idee, dass jeder jedem Geld senden kann, ohne zu fragen,
+
+236
+00:13:18,380 --> 00:13:22,600
+ohne Erlaubnis, ohne Kontrolle, ohne Zensur, ohne Identifikation.
+
+237
+00:13:23,020 --> 00:13:25,020
+Es ist "erschreckend".
+
+238
+00:13:25,740 --> 00:13:28,520
+Meine Generation findet es befreiend.
+
+239
+00:13:28,600 --> 00:13:33,420
+Die nachfolgenden Generationen werden es normal finden.
+
+240
+00:13:34,100 --> 00:13:40,200
+Sie werden keine Welt kennen, in welcher man nicht überall und jedem Geld senden kann.
+
+241
+00:13:40,340 --> 00:13:45,100
+Eine Welt, in der Geld nur Montag bis Freitag von 9 bis 17 Uhr funktioniert,
+
+242
+00:13:45,320 --> 00:13:51,120
+eine Welt, in der das Privileg eines Bankkontos eine monatliche Gebühr kostet,
+
+243
+00:13:51,280 --> 00:13:53,900
+damit andere Menschen Ihr Geld verwahren,
+
+244
+00:13:53,900 --> 00:13:58,720
+eine Welt, in der einige Ziele verboten sind,
+
+245
+00:13:58,960 --> 00:14:04,720
+eine Welt, in der man ein Bankkonto erst mit 16 Jahren eröffnen kann.
+
+246
+00:14:05,300 --> 00:14:07,939
+Dies scheint eine seltsame Idee
+
+247
+00:14:08,160 --> 00:14:13,500
+Bereiten Sie sich auf eine Welt vor, in der Sechsjährige Bitcoin-Konten haben
+
+248
+00:14:14,020 --> 00:14:15,460
+und Bitcoin-Geldbörsen.
+
+249
+00:14:15,460 --> 00:14:17,980
+Ich habe sie schon getroffen.
+
+250
+00:14:18,500 --> 00:14:22,180
+Sie lieben die Tatsache, dass sie jetzt Dinge im Internet kaufen können.
+
+251
+00:14:22,700 --> 00:14:25,280
+Eltern werden das furchterregend finden.
+
+252
+00:14:25,460 --> 00:14:28,020
+Sie hingegen werden das als normal ansehen
+
+253
+00:14:28,260 --> 00:14:32,560
+Und zehn Jahre nach Ihrer ersten Bitcoin-Geldbörse werden sie eine Bank betreten,
+
+254
+00:14:32,940 --> 00:14:36,100
+weil Oma ihnen ein Sparkonto geben will
+
+255
+00:14:36,660 --> 00:14:39,360
+und sie werden ein Gespräch mit dem Banker führen,
+
+256
+00:14:39,360 --> 00:14:45,800
+welches so seltsam sein wird, wie ein Gespräch mit einem Seeräuber aus dem 18. Jahrhundert.
+
+257
+00:14:49,000 --> 00:14:51,600
+Um ein Bankkonto eröffnen zu können,
+
+258
+00:14:52,500 --> 00:14:56,580
+müssen sie allerlei Dokumente und Papierkram vorlegen.
+
+259
+00:14:56,580 --> 00:14:58,760
+Ein Prozess, der eine Stunde dauern wird.
+
+260
+00:14:58,860 --> 00:15:03,520
+Danach haben sie sehr begrenzten Zugang, für eine sehr hohe Gebühr,
+
+261
+00:15:03,520 --> 00:15:07,060
+ausschließlich während der Öffnungszeit Montag bis Freitag 9 bis 17 Uhr,
+
+262
+00:15:07,060 --> 00:15:11,599
+auf ein Konto mit lediglich einer Währung und eingeschränktem Empfängerkreis,
+
+263
+00:15:11,600 --> 00:15:13,300
+hauptsächlich Konzerne.
+
+264
+00:15:13,480 --> 00:15:16,100
+Ein Konto, das sie nicht verwenden können, um Geld an ihre Freunde zu senden
+
+265
+00:15:16,120 --> 00:15:18,220
+oder Dinge aus dem Internet zu kaufen.
+
+266
+00:15:18,820 --> 00:15:21,420
+Und sie werden sich das anschauen und sagen:
+
+267
+00:15:21,880 --> 00:15:24,420
+"Meine Großeltern sind verrückt!"
+
+268
+00:15:25,200 --> 00:15:27,200
+"Warum benutzen sie das?"
+
+269
+00:15:27,200 --> 00:15:28,940
+"Es funktioniert nicht!"
+
+270
+00:15:29,120 --> 00:15:33,480
+"Es ist fast so seltsam, als würden sie mich bitten, ein Fax zu versenden."
+
+271
+00:15:33,800 --> 00:15:35,800
+"Ich verstehe es nicht."
+
+272
+00:15:36,340 --> 00:15:38,680
+Dies ist die Welt, die wir geschaffen haben.
+
+273
+00:15:38,800 --> 00:15:40,599
+Das ist so geschehen.
+
+274
+00:15:40,740 --> 00:15:43,400
+Und die Leute, die diese Idee fürchten
+
+275
+00:15:43,400 --> 00:15:48,140
+merken nicht, dass wir in einer neuen Welt leben, seitdem es geschehen ist.
+
+276
+00:15:48,140 --> 00:15:50,439
+Es existieren zwei Wege damit umzugehen:
+
+277
+00:15:50,440 --> 00:15:53,060
+Wir können so tun, als ob es nicht geschieht
+
+278
+00:15:53,400 --> 00:15:57,660
+oder wir können es akzeptieren und uns der neuen Welt anpassen.
+
+279
+00:15:57,660 --> 00:16:04,819
+Wir leben JETZT in einer Welt, in der Sie JEDERZEIT, ÜBERALL und UNEINGESCHRÄNKT an JEDEN Werte senden können.
+
+280
+00:16:04,820 --> 00:16:06,360
+Das können wir begrüßen
+
+281
+00:16:06,360 --> 00:16:08,760
+oder wir können vorgeben, dass es nicht passiert.
+
+282
+00:16:09,160 --> 00:16:14,319
+In meinem vorherigen Vortrag habe ich eine passende Analogie verwendet:
+
+283
+00:16:14,900 --> 00:16:22,579
+Wenn Sie Nachrichten sehen und die Wettervorhersage kündigt für heute einen Sturmregen an
+
+284
+00:16:23,060 --> 00:16:27,479
+und das kommt ihnen aufgrund einer Geburtstagsparty ungelegen,
+
+285
+00:16:28,360 --> 00:16:31,200
+können Sie natürlich die Nachrichten ausschalten.
+
+286
+00:16:31,940 --> 00:16:35,920
+Wenn Sie mächtig sind, können Sie den Nachrichtensender anrufen und sich beschweren.
+
+287
+00:16:36,060 --> 00:16:41,939
+Wenn Sie wirklich mächtig sind, können Sie die Person von der Wettervorhersage vielleicht feuern lassen.
+
+288
+00:16:43,680 --> 00:16:46,880
+Dennoch wird es regnen.
+
+289
+00:16:47,640 --> 00:16:48,740
+Richtig?
+
+290
+00:16:48,740 --> 00:16:54,100
+So beobachten wir nun Regierungen, die diese neue "Bitcoin-Sache" unter die Lupe nehmen
+
+291
+00:16:54,100 --> 00:16:59,820
+und die erste Frage, die ihnen in den Sinn kommt, ist: "Wie kontrollieren wir es? Wie verändern wir es? Wie stoppen wir es?"
+
+292
+00:16:59,820 --> 00:17:04,660
+Wie zwingen wir dem unsere Autorität auf und stülpen es unseren rechtlichen Rahmen über?
+
+293
+00:17:04,859 --> 00:17:08,899
+Sie schauen auf die Quelle
+
+294
+00:17:08,900 --> 00:17:11,820
+und verstehen das Grundkonzept nicht.
+
+295
+00:17:11,819 --> 00:17:14,879
+Sie stellen Fragen wie: "Wer ist verantwortlich?"
+
+296
+00:17:16,079 --> 00:17:19,439
+"Wer kontrolliert das?"
+
+297
+00:17:21,460 --> 00:17:24,920
+Und die Antwort ist nicht befriedigend.
+
+298
+00:17:25,500 --> 00:17:27,500
+Niemand kontrolliert das!
+
+299
+00:17:28,560 --> 00:17:30,720
+Niemand ist verantwortlich!
+
+300
+00:17:31,440 --> 00:17:35,320
+Oder Sie versuchen es mit einem etwas anspruchsvolleren Ansatz:
+
+301
+00:17:35,920 --> 00:17:37,640
+Nun, genau genommen...
+
+302
+00:17:37,640 --> 00:17:40,880
+basiert es auf einem partizipativen Open-Access-Modell
+
+303
+00:17:41,000 --> 00:17:43,840
+in einem marktwirtschaftlichen Wettbewerb
+
+304
+00:17:43,840 --> 00:17:48,699
+mit Preis-Risiko-Strategien gemäß spieltheoretischer Ergebnisse,
+
+305
+00:17:48,700 --> 00:17:53,940
+welche die Zusammenarbeit mehrerer Teilnehmer gewährleistet,
+
+306
+00:17:53,940 --> 00:17:57,020
+ohne dass jemand betrügen kann,
+
+307
+00:17:57,020 --> 00:18:00,379
+aufgrund eines Systems welches einen Konsens schafft,
+
+308
+00:18:00,380 --> 00:18:03,840
+basierend auf mathematischen Regeln und solider Kryptographie.
+
+309
+00:18:04,140 --> 00:18:07,020
+Darauf antworten sie...
+
+310
+00:18:10,520 --> 00:18:13,480
+"Ja, ja, aber ... Wer ist verantwortlich?"
+
+311
+00:18:14,560 --> 00:18:16,720
+"Wer kontrolliert es?"
+
+312
+00:18:18,520 --> 00:18:22,000
+Leute kamen nach Meetings zu mir und sagten:
+
+313
+00:18:22,000 --> 00:18:26,940
+"Ok, ich werde es niemandem erzählen. Das bleibt zwischen uns ..."
+
+314
+00:18:28,520 --> 00:18:30,920
+"Wer ist verantwortlich?"
+
+315
+00:18:32,580 --> 00:18:35,240
+Sie denken, ich mache Witze.
+
+316
+00:18:35,340 --> 00:18:39,060
+Sie denken, ich versuche die Informationen zu manipulieren,
+
+317
+00:18:40,420 --> 00:18:44,280
+denn es ist wirklich ein bizarres Konzept zu sagen:
+
+318
+00:18:44,280 --> 00:18:46,860
+Hier ist ein System des Vertrauens ohne Autorität!
+
+319
+00:18:46,880 --> 00:18:49,160
+Ein System des Vertrauens ohne ein Zentrum!
+
+320
+00:18:49,280 --> 00:18:51,700
+Ein System des Vertrauens ohne Hierarchie!
+
+321
+00:18:51,700 --> 00:18:54,020
+Ein System des Vertrauens ohne Kontrolle!
+
+322
+00:18:54,200 --> 00:18:57,040
+Warum? Weil wir das noch nie hatten.
+
+323
+00:18:57,420 --> 00:19:04,000
+Alle bisherigen Vertrauenssysteme unserer Gesellschaft basieren auf ein und demselben Modell:
+
+324
+00:19:04,260 --> 00:19:10,520
+Ein hierarchisches Organisationsmodell aus dem 19. Jahrhundert als Ergebnis des industriellen Zeitalters.
+
+325
+00:19:10,920 --> 00:19:16,360
+Ein System der Bürokratie und Autorität, das auf internen Prozessen und Regeln basiert,
+
+326
+00:19:16,600 --> 00:19:21,379
+diese abstuft und schlussendlich Personen mit Autorität ausstattet.
+
+327
+00:19:21,580 --> 00:19:26,100
+Manchmal eine demokratisch gewählte Autorität,
+
+328
+00:19:26,340 --> 00:19:32,179
+möglicherweise aber auch eine nicht gewählte Autorität durch Erbe oder Diktatur.
+
+329
+00:19:32,500 --> 00:19:39,940
+Aber es ist immer dasselbe. Die Hierarchie bildet eine Pyramide und Sie können ihr bis zur Spitze folgen
+
+330
+00:19:40,040 --> 00:19:43,560
+und im Normalfall gibt es eine Person an der Spitze.
+
+331
+00:19:44,140 --> 00:19:51,840
+In einigen Fällen ist diese Person ein Schauspieler gesteuert von Schattenfiguren im Hintergrund,
+
+332
+00:19:51,940 --> 00:19:55,680
+aber nichtsdestotrotz ist diese Person mit Autorität ausgestattet.
+
+333
+00:19:55,860 --> 00:19:58,580
+Bitcoin ist im Gegenteil hierzu ein flaches System
+
+334
+00:19:58,720 --> 00:20:02,400
+und nur ein paar Leute scheinen eine besondere Rolle einzunehmen.
+
+335
+00:20:02,600 --> 00:20:06,159
+Dann sagen sie: "OK, dann haben diese Leute eben die Kontrolle"
+
+336
+00:20:06,160 --> 00:20:13,380
+Sind es die Miner? Sind es die Softwareentwickler? Ist es ein Teil des Knotensystems?
+
+337
+00:20:13,700 --> 00:20:17,600
+Und dann merken Sie, dass all diese Leute tatsächlich nichts ausrichten können.
+
+338
+00:20:20,780 --> 00:20:24,620
+Und der lustige Teil ist, wenn Leute auf Bitcoin schauen,
+
+339
+00:20:24,840 --> 00:20:29,320
+dann sehen sie seine größten Stärken als Fehler an.
+
+340
+00:20:30,460 --> 00:20:32,740
+Das ist sehr charakteristisch für neue Technologien.
+
+341
+00:20:32,740 --> 00:20:34,540
+Sie schauen auf Bitcoin und sagen:
+
+342
+00:20:34,540 --> 00:20:40,420
+"Miner und Entwickler können sich nicht darüber einigen, wie das System skaliert werden soll."
+
+343
+00:20:41,260 --> 00:20:47,000
+"Warum kann eine dieser Gruppen nicht einfach sagen: 'So machen wir das!' ?"
+
+344
+00:20:47,440 --> 00:20:51,560
+Das ist nicht Bitcoin, denn diese Möglichkeit gibt es nicht.
+
+345
+00:20:51,700 --> 00:20:54,820
+Es wird einen gegnerischen Wettbewerb geben.
+
+346
+00:20:54,980 --> 00:20:58,300
+Es ist ein System von Marktkräften, die miteinander konkurrieren.
+
+347
+00:20:58,360 --> 00:21:00,860
+Der Grund für den derzeitige Stillstand...
+
+348
+00:21:00,920 --> 00:21:08,640
+ist der Konsens, welcher den persönlichen Ehrgeiz, Popularität und alles andere überwinden muss.
+
+349
+00:21:10,340 --> 00:21:14,580
+Also schauen sie auf Bitcoin sagen: "Es wird nur gestritten und keine Entscheidungen getroffen".
+
+350
+00:21:14,660 --> 00:21:18,840
+Ja. Mit Absicht. Funktionalität. Kein Fehler.
+
+351
+00:21:20,020 --> 00:21:25,400
+Sie schauen auf Bitcoin und sagen: "Aber man kann keine Transaktion rückgängig machen".
+
+352
+00:21:26,720 --> 00:21:31,980
+Die Zahlungen sind irreversibel und sie sagen: "Das ist ein Problem, das ist ein Fehler".
+
+353
+00:21:32,740 --> 00:21:39,900
+"Wie kann das sein? Was passiert, wenn etwas schief geht? Wen rufe ich an, um eine Transaktion rückgängig zu machen?"
+
+354
+00:21:41,000 --> 00:21:43,420
+Funktionalität. Kein Fehler.
+
+355
+00:21:43,920 --> 00:21:47,380
+Bitcoin garantiert die Ausführung der angelegten Skripte.
+
+356
+00:21:47,520 --> 00:21:51,260
+Wenn Sie also ein Skript anlegen, das besagt:
+
+357
+00:21:51,260 --> 00:21:56,100
+"Hey Sandip, hier ist ein Bitcoin. Ich hoffe du schickst mir den bestellten Fernseher."
+
+358
+00:21:56,280 --> 00:22:00,760
+So ist dieses Skript irreversibel und vom Netzwerk garantiert.
+
+359
+00:22:00,760 --> 00:22:05,080
+Es ist kein sehr gutes Skript, weil Sandip den Fernseher vielleicht nicht schicken wird.
+
+360
+00:22:05,320 --> 00:22:09,939
+Und niemand außer Sandip kann den Bitcoin zurückerstatten.
+
+361
+00:22:11,200 --> 00:22:14,500
+Das ist eine Form eines irreversiblen Versprechens.
+
+362
+00:22:15,580 --> 00:22:20,439
+Das ist jedoch nicht das einzige Versprechen, welches mit dem Netzwerk garantiert werden kann.
+
+363
+00:22:20,680 --> 00:22:24,640
+Ich kann sagen: "Hey Sandip, hier ist ein Bitcoin.
+
+364
+00:22:25,040 --> 00:22:30,340
+Dieser wird für die nächsten 30 Tage auf einer Adresse mit Mehrfachsignatur geparkt.
+
+365
+00:22:30,440 --> 00:22:33,320
+Wenn nach 30 Tagen kein Konflikt besteht,
+
+366
+00:22:34,100 --> 00:22:36,980
+dann wird dieser automatisch übertragen.
+
+367
+00:22:38,020 --> 00:22:44,440
+Die Verifikation erfolgt dabei durch einen vertrauenswürdigen Dritten meiner Wahl."
+
+368
+00:22:44,600 --> 00:22:48,260
+Ich kann Dritte nutzen wenn ich möchte, aber ich muss nicht.
+
+369
+00:22:48,360 --> 00:22:55,060
+Ich kann Irreversibilität nutzen, wenn ich möchte, aber wenn ich dieses Skript so schreibe ist es irreversibel.
+
+370
+00:22:56,760 --> 00:22:59,260
+Und ich kann meinen Treuhandservice frei wählen.
+
+371
+00:22:59,320 --> 00:23:01,879
+Und ich kann frei wählen, wer eine Konfliktlösung vornimmt.
+
+372
+00:23:01,920 --> 00:23:10,020
+Somit kann ich die Kernfunktion der Irreversibilität nutzen und die  Zusicherung abwandeln
+
+373
+00:23:10,460 --> 00:23:15,500
+um erhalte einen Verbraucherschutz durch programmierbares Geld.
+
+374
+00:23:16,480 --> 00:23:19,060
+Es ist eine Funktionalität. Kein Fehler.
+
+375
+00:23:21,260 --> 00:23:24,760
+Bitcoin ist wirklich ein "seltsames Wesen".
+
+376
+00:23:24,980 --> 00:23:29,160
+Es verstößt gegen alles, was wir über Geld zu wissen glauben
+
+377
+00:23:29,320 --> 00:23:34,340
+und es zwingt uns dazu, darüber nachzudenken, ob wir Geld überhaupt verstanden haben.
+
+378
+00:23:35,280 --> 00:23:38,940
+Erinnern Sie sich noch an Ihre Schulzeit
+
+379
+00:23:39,440 --> 00:23:44,140
+und dieses Fach über die Grundlagen der Wirtschaft und Geld?
+
+380
+00:23:45,520 --> 00:23:46,300
+Nein?
+
+381
+00:23:48,620 --> 00:23:49,840
+Sie auch nicht?
+
+382
+00:23:50,500 --> 00:23:53,060
+Wir haben das auch nie gehabt.
+
+383
+00:23:53,900 --> 00:23:59,200
+Man sollte denken, dass eine der ältesten Technologien,
+
+384
+00:23:59,680 --> 00:24:05,380
+eine der gewaltigsten Erfindung menschlicher Zivilisation, Währung,
+
+385
+00:24:05,960 --> 00:24:11,640
+das Handelssystem, welches die Grundlage unseres Leben ist und es in vielerlei Hinsicht dominiert,
+
+386
+00:24:11,900 --> 00:24:14,440
+sollte eigentlich ein wichtiges Thema in der Schule sein...
+
+387
+00:24:14,760 --> 00:24:16,160
+Kein einziger Tag!
+
+388
+00:24:16,260 --> 00:24:20,520
+An mancher Stelle erhält man vielleicht eine kurze Schulung über Wirtschaftsgrundlagen
+
+389
+00:24:20,520 --> 00:24:22,740
+oder die Geschichte oder ähnliches,
+
+390
+00:24:22,940 --> 00:24:27,060
+welche uns allenfalls eine vage Idee von Geld vermittelt, die wir nicht wirklich verstehen.
+
+391
+00:24:27,460 --> 00:24:33,240
+Die meisten von uns können kein 15-minütiges Gespräch mit einem 6-Jährigen über Geld führen,
+
+392
+00:24:34,240 --> 00:24:38,840
+weil der 6-Jährige gute Fragen hat und wir keine Antworten haben.
+
+393
+00:24:40,080 --> 00:24:42,240
+"Wie funktioniert Geld, Mama?"
+
+394
+00:24:44,060 --> 00:24:48,879
+Nun, die richtige Antwort ist: "Ich habe nicht die geringste Ahnung, Kind!"
+
+395
+00:24:51,520 --> 00:24:55,060
+Ich denke, es hat etwas zu tun...
+
+396
+00:24:55,560 --> 00:24:58,760
+mit der Vergabe von Sonderzeichnungsrechten,
+
+397
+00:24:58,760 --> 00:25:02,240
+durch den internationalen Währungsfonds und die Weltbank,
+
+398
+00:25:02,240 --> 00:25:09,860
+in einem System freier Wechselkurse von Währungen, die durch Handelsbilanzen auf internationaler Ebene konkurrieren,
+
+399
+00:25:09,960 --> 00:25:16,300
+von inflationsbereinigten Wechselkursen, die dann zur Schaffung lokaler Schulden verwendet werden,
+
+400
+00:25:16,340 --> 00:25:20,020
+welche vom Fiskus zum Tausch gegen eine Währung verwendet werden,
+
+401
+00:25:20,020 --> 00:25:22,440
+die von der Zentralbank gedruckt wird,
+
+402
+00:25:22,520 --> 00:25:31,920
+an die Banken verteilt wird, die es dann in einem System mit Teilreserve und Hebelwirkung im Verhältnis 10 zu 1 vermehrt wird
+
+403
+00:25:31,920 --> 00:25:38,100
+und an die Wirtschaft verteilt wird, was zu inflationären oder deflationären Effekten führt,
+
+404
+00:25:38,440 --> 00:25:45,760
+damit wir den Hochgeschwindigkeitshandels eines abstrakten Wertes miterleben dürfen,
+
+405
+00:25:46,000 --> 00:25:50,660
+welcher ein entwertetes zukünftiges Zahlungsversprechen darstellt,
+
+406
+00:25:51,060 --> 00:25:53,080
+durch Inflationsrate,
+
+407
+00:25:53,360 --> 00:25:57,740
+und für die Rendite der Investition angepasst.
+
+408
+00:26:04,600 --> 00:26:07,699
+"Warum können wir dann nicht mehr davon haben, Mama?"
+
+409
+00:26:09,040 --> 00:26:12,200
+"Warum können wir nicht einfach jedem mehr davon geben?"
+
+410
+00:26:14,200 --> 00:26:17,860
+Diese Konversation geschieht so meist nicht. Normalerweise heißt es:
+
+411
+00:26:18,160 --> 00:26:21,240
+"Iss dein Frühstück! Geh ins Bett!"
+
+412
+00:26:21,440 --> 00:26:25,520
+"Räume dein Zimmer auf! Eines Tages wirst du verstehen..."
+
+413
+00:26:25,620 --> 00:26:27,320
+Und das ist die erste Lüge,
+
+414
+00:26:27,660 --> 00:26:30,100
+weil sie es dann immer noch nicht verstehen.
+
+415
+00:26:30,660 --> 00:26:35,020
+Wenn man ganz normale Leute auf der Straße fragt: "Woher bekommt Geld seinen Wert?"
+
+416
+00:26:35,080 --> 00:26:38,879
+"Warum hat Geld einen Wert?" Sie haben keine Ahnung!
+
+417
+00:26:39,360 --> 00:26:43,760
+Sie haben eine Theorie, ein Märchen, eine Geschichte.
+
+418
+00:26:44,840 --> 00:26:49,139
+Und diese Geschichte ist ungefähr so naiv,
+
+419
+00:26:49,920 --> 00:26:53,640
+als glaube man daran, dass Kinder von Störchen gebracht werden.
+
+420
+00:26:54,360 --> 00:26:57,840
+Sie bringen sie in Bündeln und setzen sie über dem Kamin ab.
+
+421
+00:26:59,000 --> 00:27:03,360
+Es ist ähnlich glaubwürdig wie die Geschichte vom Weihnachtsmann.
+
+422
+00:27:05,100 --> 00:27:07,100
+Was gibt Geld seinen Wert?
+
+423
+00:27:09,140 --> 00:27:13,120
+Es steht direkt auf dem Stück Papier und dort heißt es:
+
+424
+00:27:13,180 --> 00:27:17,560
+"... aufgrund unbegrenzten Glaubens an Guthaben bei der Royal Bank of India"
+
+425
+00:27:17,560 --> 00:27:22,540
+oder "... aufgrund unbegrenzten Glaubens an Guthaben durch das Federal Reserve System"
+
+426
+00:27:22,580 --> 00:27:27,000
+Es heißt: "Eine Federal Reserve Banknote...
+
+427
+00:27:29,140 --> 00:27:32,820
+... gilt für alle öffentlichen und privaten Schulden"
+
+428
+00:27:33,600 --> 00:27:37,820
+Ok. Das gibt also der Banknote einen Wert. Ein Versprechen
+
+429
+00:27:38,740 --> 00:27:41,520
+Aber die meisten Leute wissen nicht wie das funktioniert.
+
+430
+00:27:41,520 --> 00:27:46,900
+Ich garantiere Ihnen, dass, wenn Sie die Leute auf der Straße nach dem Grund für den Wert von Geld fragen,
+
+431
+00:27:46,960 --> 00:27:56,320
+irgendwo eine Höhle, ein Tresor oder eine Kiste ist, wo die Regierung ebenso viel Gold einlagert, wie sich Geld in Umlauf befindet.
+
+432
+00:27:56,840 --> 00:28:00,600
+Das stimmt weltweit gesehen seit den 1930er nicht mehr.
+
+433
+00:28:01,200 --> 00:28:05,980
+Und dennoch ist es diese Weihnachtsmann-Fantasie, an die viele Menschen glauben.
+
+434
+00:28:06,460 --> 00:28:14,200
+Oder sie glauben, dass die Regierung den Wert des Geldes in irgendeiner Form garantiert.
+
+435
+00:28:15,780 --> 00:28:19,399
+Daraus resultieren andere interessante Fragen, wie...
+
+436
+00:28:20,000 --> 00:28:31,060
+Warum kollabiert die Währung in Simbabwe? Hat die Regierung nicht genug getan, um sie zu garantieren?
+
+437
+00:28:33,140 --> 00:28:40,640
+Das ist die unbequeme Wahrheit im Kern unseres Verständnisses der ältesten Technologie der Welt, Geld.
+
+438
+00:28:40,680 --> 00:28:44,600
+Wir verstehen es nicht. Wir verstehen es einfach nicht!
+
+439
+00:28:46,080 --> 00:28:47,460
+Die Wahrheit ist,
+
+440
+00:28:48,140 --> 00:28:51,920
+SIE geben Geld einen Wert!
+
+441
+00:28:53,080 --> 00:29:00,120
+Warum? Weil sie sich an einer kollektiven Wahnvorstellung beteiligen,
+
+442
+00:29:01,320 --> 00:29:03,800
+mit 1,5 Milliarden anderen Menschen,
+
+443
+00:29:04,020 --> 00:29:09,440
+bei der Sie fest davon überzeugt sind, dass dieses Geld auch morgen noch einen Wert hat,
+
+444
+00:29:09,440 --> 00:29:15,040
+so dass wenn Sie in einen Laden gehen und eines dieser bunten Papierstücke präsentieren,
+
+445
+00:29:15,500 --> 00:29:24,320
+jemand Ihnen dafür Eier, Hühnchen, Gewürze, Wasser, Zucker, Salz, Unterkunft, Gesundheit, etwas, geben wird,
+
+446
+00:29:24,360 --> 00:29:26,399
+für dieses bunte Stück Papier.
+
+447
+00:29:26,740 --> 00:29:32,000
+Und es benötigt wirklich eine unglaubliche Wahnvorstellung, um das tatsächlich zu Glauben,
+
+448
+00:29:32,140 --> 00:29:34,540
+denn das Papier an sich ist nutzlos.
+
+449
+00:29:36,000 --> 00:29:37,280
+Es ist hübsch,
+
+450
+00:29:38,480 --> 00:29:41,100
+aber auf dieser Ebene leider nicht so sehr.
+
+451
+00:29:41,340 --> 00:29:46,159
+Niemand gibt Ihnen Produkte und Dienstleistungen, nur weil es so hübsch ist.
+
+452
+00:29:46,800 --> 00:29:47,620
+Richtig?
+
+453
+00:29:48,960 --> 00:29:53,000
+Diese kollektive Wahnvorstellung benötigte hunderte von Jahren, um sich zu etablierten.
+
+454
+00:29:53,500 --> 00:29:54,820
+Es begann
+
+455
+00:29:55,940 --> 00:29:57,400
+irgendwann
+
+456
+00:29:58,120 --> 00:30:00,120
+Ende des 15. Jahrhunderts
+
+457
+00:30:01,360 --> 00:30:03,679
+mit der Einführung von Papiergeld,
+
+458
+00:30:03,700 --> 00:30:08,640
+Goldzertifikaten, Schuldscheinen, Währungs-Zertifikaten, Barriere-Zertifikaten, usw.
+
+459
+00:30:09,120 --> 00:30:12,719
+Papierstücke, die gehandelt werden konnten, aufgrund eines Versprechens für etwas anderes.
+
+460
+00:30:13,240 --> 00:30:19,000
+Und dann folgt der unglaublichste Zaubertrick, den die Menschheit je gesehen hat:
+
+461
+00:30:21,500 --> 00:30:23,500
+Man hat die Hütchen vertauscht.
+
+462
+00:30:24,660 --> 00:30:26,980
+Und Sie heben das Hütchen hoch, doch der Ball ist weg.
+
+463
+00:30:27,600 --> 00:30:29,600
+Und Sie sagen: "Was?"
+
+464
+00:30:29,840 --> 00:30:33,320
+"Das war doch angeblich gegen 1 Unze Gold eintauschbar."
+
+465
+00:30:34,020 --> 00:30:36,020
+"Ein Pfund Silber, irgendetwas..."
+
+466
+00:30:36,940 --> 00:30:38,940
+Nein, jetzt nicht mehr!
+
+467
+00:30:39,940 --> 00:30:42,020
+Es ist nur ein Stück Papier.
+
+468
+00:30:42,440 --> 00:30:44,880
+Was diesem einen Wert gibt, ist Ihr Glaube,
+
+469
+00:30:45,040 --> 00:30:48,600
+dass Sie damit etwas kaufen können, wenn Sie morgen in den Laden gehen.
+
+470
+00:30:49,000 --> 00:30:53,840
+Und in dem Moment, in welchem dieser Glaube einen Riss erleidet,
+
+471
+00:30:55,020 --> 00:30:56,360
+zerbricht er!
+
+472
+00:30:57,480 --> 00:31:00,200
+Und Sie haben sehr große Probleme.
+
+473
+00:31:00,440 --> 00:31:07,840
+Stellen Sie sich ein verrücktes Szenario vor, in dem das Versprechen, der uneingeschränkte Glaube an Kredit,
+
+474
+00:31:08,260 --> 00:31:19,060
+sich eines Tages in die Mitteilung verkehrt, dass in 4 Stunden diese zwei bunten Zettel keinerlei Wert haben.
+
+475
+00:31:22,380 --> 00:31:24,100
+Aber hier wird es interessant...
+
+476
+00:31:24,260 --> 00:31:36,300
+und die Leute, die Ihnen das Versprechen gaben, nun sagen, dass es in 4 Stunden keinen Wert mehr hat...
+
+477
+00:31:36,700 --> 00:31:38,700
+Was ist dieses Stück Papier dann wert?
+
+478
+00:31:40,360 --> 00:31:42,199
+Nichts! Oder?
+
+479
+00:31:42,900 --> 00:31:44,480
+Aber das geschah nicht.
+
+480
+00:31:45,060 --> 00:31:46,720
+Das geschah ganz und gar nicht.
+
+481
+00:31:48,420 --> 00:31:55,660
+Nachdem dies angekündigt wurde, war das Papier tatsächlich über die Monate immer weniger wert.
+
+482
+00:31:56,480 --> 00:32:00,260
+10% weniger. 15% weniger. 20% weniger.
+
+483
+00:32:00,840 --> 00:32:02,760
+Aber es hatte immer noch einen Wert,
+
+484
+00:32:03,000 --> 00:32:06,740
+obwohl die Leute, die das Versprechen gaben, Ihnen sagten dass es 0 wert ist,
+
+485
+00:32:06,800 --> 00:32:13,080
+können Sie es für 80% des Nominalwerts an vielen verschiedenen Orten umtauschen,
+
+486
+00:32:13,120 --> 00:32:14,040
+wo,
+
+487
+00:32:14,220 --> 00:32:16,660
+keine Korruption mehr existiert.
+
+488
+00:32:16,780 --> 00:32:20,160
+und Sie kein Geld tauschen können. All diese Geschichten...
+
+489
+00:32:20,340 --> 00:32:26,980
+Außer natürlich, Sie haben Kontakte und sind reich genug, um sich die 20% Abwertung leisten zu können.
+
+490
+00:32:27,040 --> 00:32:30,399
+Aber es wurde nur um 20% entwertet.
+
+491
+00:32:30,400 --> 00:32:31,520
+Höchstens.
+
+492
+00:32:31,820 --> 00:32:34,820
+Ich wette, dass Sie auch heute noch etwas davon im Umlauf finden können.
+
+493
+00:32:34,820 --> 00:32:37,320
+Und ich wette, dass es immer noch nicht den Wert 0 hat.
+
+494
+00:32:37,320 --> 00:32:38,200
+Tatsächlich,
+
+495
+00:32:38,280 --> 00:32:42,520
+In der Münzgeschichte findet man kaum Währungen, die auf 0 gehen ...
+
+496
+00:32:45,080 --> 00:32:47,399
+Ich kann nach Rom in Italien gehen
+
+497
+00:32:48,860 --> 00:32:52,840
+und kann dort Silbermünzen mit dem Gesicht von Julio Cesar bekommen.
+
+498
+00:32:53,780 --> 00:32:59,379
+Münzen, die seit fast eintausend Jahren nicht im Umlauf waren.
+
+499
+00:33:01,220 --> 00:33:06,780
+Und selbst dann ist ihr Wert nicht 0, sondern übersteigt den Silberwert.
+
+500
+00:33:07,720 --> 00:33:10,860
+Sie sind immer noch ein austauschbare Abstraktion von Wert.
+
+501
+00:33:12,360 --> 00:33:15,439
+Der Grund, weshalb dieses Geld nicht auf 0 ging,
+
+502
+00:33:15,440 --> 00:33:19,300
+war nicht, weil sein Wert das Versprechen war,
+
+503
+00:33:19,700 --> 00:33:23,520
+sondern weil sein Wert diese Illusion war.
+
+504
+00:33:25,560 --> 00:33:28,179
+Und diese Illusion wurde erschüttert,
+
+505
+00:33:28,180 --> 00:33:29,920
+aber nicht zerstört,
+
+506
+00:33:29,920 --> 00:33:34,560
+weil Sie zwar anfänglich panisch werden und sagen: "Das hat keinen Wert"
+
+507
+00:33:34,560 --> 00:33:39,820
+und dann sagt jemand: "Keine Sorge, ich kenne da jemanden, der kennt jemanden,
+
+508
+00:33:39,820 --> 00:33:42,879
+der kennt jemand anderen, der dazu bereit ist, dir 80% zu geben."
+
+509
+00:33:42,880 --> 00:33:47,060
+und plötzlich ist es nicht mehr 0 wert, sondern wird nur entwertet.
+
+510
+00:33:47,720 --> 00:33:51,080
+Sie geben es einem Wert durch Ihren Gebrauch.
+
+511
+00:33:51,080 --> 00:33:55,139
+Sie geben es einem Wert, da Sie an dieses Versprechen glauben.
+
+512
+00:33:55,540 --> 00:33:59,639
+Um dieses Versprechen aufrechtzuerhalten, benötigt es jedoch weitere Eigenschaften:
+
+513
+00:33:59,760 --> 00:34:01,800
+Es muss fälschungssicher sein.
+
+514
+00:34:02,340 --> 00:34:04,000
+Wenn es gefälscht werden kann,
+
+515
+00:34:04,380 --> 00:34:09,280
+dann kommt es zu einem Phänomen, welches die Ökonomie als "Greshamsches Gesetz" bezeichnet,
+
+516
+00:34:10,139 --> 00:34:12,759
+wo schlechtes Geld das gute Geld verdrängt.
+
+517
+00:34:13,380 --> 00:34:18,340
+Wenn Sie also gutes Geld in die Hände bekommen, geben Sie es nicht aus,
+
+518
+00:34:18,340 --> 00:34:20,680
+sondern verstecken es unter der Matratze.
+
+519
+00:34:20,880 --> 00:34:23,740
+Klingt das vertraut? Es ist hier passiert.
+
+520
+00:34:24,040 --> 00:34:27,520
+Wenn Sie eine alte und ein neue Banknote haben,
+
+521
+00:34:27,520 --> 00:34:33,420
+dann geben Sie die neue Banknote erst dann aus, wenn Sie alle alten Banknoten los sind.
+
+522
+00:34:33,620 --> 00:34:38,480
+So verschwinden alle neuen Banknoten sofort aus dem Umlauf.
+
+523
+00:34:38,480 --> 00:34:40,780
+Ihre Umlaufgeschwindigkeit geht auf 0.
+
+524
+00:34:41,420 --> 00:34:46,520
+Die Leute handeln mit der alten Banknote, aber wenn sie das tun befindet sie sich im Umlauf.
+
+525
+00:34:46,520 --> 00:34:49,199
+Und je länger sie im Umlauf ist,
+
+526
+00:34:49,540 --> 00:34:53,199
+desto mehr Leute halten daran fest und horten die neuen Banknoten.
+
+527
+00:34:53,199 --> 00:34:54,719
+Greshamsches Gesetz in Aktion.
+
+528
+00:34:54,719 --> 00:34:57,859
+Ich dachte nicht, dass ich das jemals erleben würde.
+
+529
+00:34:57,900 --> 00:35:01,580
+Danke Indien, für das bestätigen meines Wirtschaftsprofessors,
+
+530
+00:35:01,580 --> 00:35:06,200
+indem Greshamsches Gesetz in einem Labor mit 1,5 Milliarden Menschen demonstriert wurde.
+
+531
+00:35:07,220 --> 00:35:11,600
+Sehr schmerzhaft, aber trotzdem sehr interessante Ökonomie
+
+532
+00:35:14,320 --> 00:35:17,580
+Geld muss fälschungssicher sein!
+
+533
+00:35:17,700 --> 00:35:20,180
+Geld muss tragbar sein!
+
+534
+00:35:20,180 --> 00:35:21,259
+Richtig?
+
+535
+00:35:21,900 --> 00:35:26,540
+Warum haben sie an der Tür nicht mit Gold bezahlt?
+
+536
+00:35:27,220 --> 00:35:30,379
+Gewiss wird hier Gold akzeptiert. Ich zumindest würde es.
+
+537
+00:35:30,380 --> 00:35:31,340
+Richtig?
+
+538
+00:35:31,640 --> 00:35:35,600
+Sie bezahlen nicht mit Gold, da Gold als Geld nichts taugt
+
+539
+00:35:35,600 --> 00:35:39,440
+Und der Hauptgrund dafür ist, dass es schwer ist.
+
+540
+00:35:39,480 --> 00:35:41,360
+Es ist sehr, sehr schwer.
+
+541
+00:35:41,520 --> 00:35:47,100
+Für den gespeicherten Wert, ist es utopisch schwer.
+
+542
+00:35:47,600 --> 00:35:49,240
+Man kann es auch nicht leichter machen.
+
+543
+00:35:49,240 --> 00:35:51,140
+Seine Dichte ist unveränderlich.
+
+544
+00:35:51,140 --> 00:35:54,279
+Gold taugt nicht als Währung, weil es nicht tragbar ist.
+
+545
+00:35:55,520 --> 00:35:58,700
+Derzeit befinden sich auch andere Währungen in einer ähnlichen Situation.
+
+546
+00:35:58,800 --> 00:36:02,180
+Zimbawes Geld taugt nichts, weil es nicht tragbar ist.
+
+547
+00:36:02,240 --> 00:36:05,740
+Dort braucht man eine Schubkarre voll Geld, um eine Tasse Kaffee zu kaufen.
+
+548
+00:36:06,440 --> 00:36:10,140
+Ich erinnere mich an das BBC-Interview, in dem sie einen Bauern fragen:
+
+549
+00:36:10,140 --> 00:36:13,220
+"Machen Sie sich keine Sorgen, dass jemand Ihr Geld stehlen wird?"
+
+550
+00:36:13,260 --> 00:36:17,020
+und er antwortet: "Nein, ich mache mir vielmehr Sorgen, dass jemand meine Schubkarre klaut."
+
+551
+00:36:19,120 --> 00:36:21,680
+Weil sie mehr wert ist, als das Geld darin.
+
+552
+00:36:24,660 --> 00:36:26,680
+Schlechtes Geld verdrängt gutes Geld.
+
+553
+00:36:26,740 --> 00:36:32,120
+Es muss fälschungssicher, tragbar und für jeden erkennbar sein.
+
+554
+00:36:32,120 --> 00:36:36,160
+Sie müssen echtes Geld erkennen können.
+
+555
+00:36:36,160 --> 00:36:38,779
+Sie müssen es unabhängig überprüfen können.
+
+556
+00:36:38,780 --> 00:36:39,580
+Richtig?
+
+557
+00:36:39,880 --> 00:36:43,540
+Es muss als Rechnungseinheit verwendet werden können.
+
+558
+00:36:43,540 --> 00:36:46,540
+Sie müssen Dinge in dieser Einheit zählen können.
+
+559
+00:36:46,660 --> 00:36:49,879
+Einer der Gründe, weshalb Tauschhandel nicht funktioniert.
+
+560
+00:36:49,880 --> 00:36:54,160
+Einer der Gründe, weshalb Tauschhandel keine angemessene Art des Wirtschaftens ist.
+
+561
+00:36:54,160 --> 00:36:57,940
+Auf jeder Ebene, abgesehen von einer extrem lokalen Wirtschaft.
+
+562
+00:36:58,060 --> 00:37:01,700
+Der Grund hierfür, ist die problematische Festlegung von Preisen.
+
+563
+00:37:01,820 --> 00:37:05,780
+Ich kann dir ein Huhn für eine Ziege geben,
+
+564
+00:37:06,140 --> 00:37:11,420
+und ich kann dem Friseur ein Huhn für einen Haarschnitt geben,
+
+565
+00:37:11,460 --> 00:37:16,140
+und ich kann dem Wasserträger Huhn für Wasser geben.
+
+566
+00:37:16,140 --> 00:37:16,859
+Richtig?
+
+567
+00:37:16,860 --> 00:37:20,660
+Tauschhandel funktioniert auf einem theoretischen Niveau.
+
+568
+00:37:21,180 --> 00:37:26,919
+Das Problem beim Tauschhandel ist, dass ich jetzt den Wechselkurs verfolgen muss,
+
+569
+00:37:28,060 --> 00:37:32,240
+von Haarschnitten in Hühnereinheiten,
+
+570
+00:37:33,340 --> 00:37:35,580
+von Ziegen in Hühnereinheiten,
+
+571
+00:37:35,700 --> 00:37:37,919
+und von Wasser in Hühnereinheiten.
+
+572
+00:37:38,060 --> 00:37:40,480
+Gleichzeitig muss der Friseur,
+
+573
+00:37:40,580 --> 00:37:49,259
+den Preis eines Haarschnitts in Hühnern, Ziegen, Reis, Zucker, Salz, Wasser, usw. verfolgen.
+
+574
+00:37:49,780 --> 00:37:58,020
+Das Problem mit dem Tauschhandel ist, dass man alle Wechselkurse sämtlicher Waren verfolgen muss.
+
+575
+00:37:58,400 --> 00:38:00,440
+Der springende Punkt von Geld ist,
+
+576
+00:38:00,840 --> 00:38:06,860
+dass man einfach alles mit der einer Sache vergleicht, die keinen Wert hat.
+
+577
+00:38:06,860 --> 00:38:12,800
+Die Sache, die nicht essbar ist, die sich nicht zum Haare schneiden eignet,
+
+578
+00:38:13,660 --> 00:38:19,779
+weil sie nicht der Wert ist, sondern nur ein Wert-Symbol, welches den Wert repräsentiert.
+
+579
+00:38:20,260 --> 00:38:25,580
+Geld muss also fälschungssicher, tragbar und als Rechnungseinheit brauchbar sein.
+
+580
+00:38:26,440 --> 00:38:28,780
+Nun zum schwierigen Teil:
+
+581
+00:38:29,100 --> 00:38:31,100
+Es muss selten sein!
+
+582
+00:38:32,160 --> 00:38:36,279
+Sie können keine Muscheln als Währung verwenden, wenn Sie an einem Strand leben.
+
+583
+00:38:38,660 --> 00:38:41,680
+Trotzdem benutzten Menschen Muscheln als Währung.
+
+584
+00:38:41,680 --> 00:38:42,879
+In den Bergen.
+
+585
+00:38:43,380 --> 00:38:46,400
+Aus archäologischen Ausgrabungsstätten geht hervor,
+
+586
+00:38:46,920 --> 00:38:49,140
+dass Völker, uralte Völker,
+
+587
+00:38:49,540 --> 00:38:51,600
+Muscheln als Währung verwendeten.
+
+588
+00:38:51,720 --> 00:38:54,359
+Niemals am Strand, immer im Gebirge.
+
+589
+00:38:54,500 --> 00:38:56,160
+Weil sie dort selten sind.
+
+590
+00:38:57,280 --> 00:39:02,880
+und man benutzte Kristalle, Quarze und Mineralien am Strand,
+
+591
+00:39:02,880 --> 00:39:04,980
+weil sie aus den Bergen kommen.
+
+592
+00:39:05,520 --> 00:39:10,720
+Solange es dort nicht vorkommt, wo man gerade ist, ist es eine großartige Form von Geld.
+
+593
+00:39:11,680 --> 00:39:16,640
+Und das ist eines der größten Probleme, die wir heutzutage mit unseren Geldsystemen haben.
+
+594
+00:39:16,860 --> 00:39:20,760
+Ich schlechte Nachrichten für Sie habe: Die indische Rupie ist nicht selten.
+
+595
+00:39:21,300 --> 00:39:22,760
+Sie ist unbegrenzt.
+
+596
+00:39:23,320 --> 00:39:25,820
+Sie kann in unendlichen Mengen erschaffen werden,
+
+597
+00:39:26,360 --> 00:39:33,180
+so wie der Dollar, der Euro, der Yen und alle anderen Währungen auch.
+
+598
+00:39:33,180 --> 00:39:36,279
+Diese können ebenfalls in unendlichen Mengen erschaffen werden.
+
+599
+00:39:36,280 --> 00:39:37,360
+Und das Schlimmste ist,
+
+600
+00:39:37,360 --> 00:39:40,840
+die Entscheidungsmacht darüber, welche Menge erschaffen werden soll,
+
+601
+00:39:40,840 --> 00:39:44,700
+wird Menschen mit einem Interessenkonflikt eingeräumt.
+
+602
+00:39:46,180 --> 00:39:48,879
+Denn wenn man Schuldner ist,
+
+603
+00:39:50,440 --> 00:39:55,720
+will mann, dass das Geld weniger wert ist, um weniger zurückzahlen zu müssen.
+
+604
+00:39:55,960 --> 00:40:02,660
+Wenn man Sparer ist, möchten man, dass das Geld mehr wert ist, damit man mehr verdienen kann.
+
+605
+00:40:03,120 --> 00:40:06,680
+Wenn Sie dem größten Schuldner, der Regierung,
+
+606
+00:40:06,720 --> 00:40:11,779
+die Entscheidung überlassen, wie viel das Geld wert sein soll, dann wird sie es unbegrenzt drucken,
+
+607
+00:40:11,820 --> 00:40:14,180
+um sicherzustellen, dass es nichts wert ist
+
+608
+00:40:14,300 --> 00:40:19,440
+und dabei den Wohlstand von Sparern auf Schuldner zu übertragen.
+
+609
+00:40:20,560 --> 00:40:25,060
+Für Sparer ist das ein beunruhigender Gedanke.
+
+610
+00:40:25,620 --> 00:40:28,720
+Man muss es den Leuten auf eine sehr ruhige Art erklären,
+
+611
+00:40:29,400 --> 00:40:31,960
+also mit ein paar raffinierten Tricks.
+
+612
+00:40:31,960 --> 00:40:33,540
+Man erzählt den Leuten:
+
+613
+00:40:33,540 --> 00:40:39,460
+"Die jährliche Inflationsrate wird 2% oder 2,2% nicht übersteigen."
+
+614
+00:40:40,280 --> 00:40:44,320
+Das klingt harmlos! 2%! Was sind 2%?
+
+615
+00:40:44,320 --> 00:40:47,880
+Ich weiß nicht einmal, wie viel 2% sind.  Ich habe in der Schule nicht aufgepasst.
+
+616
+00:40:48,060 --> 00:40:50,820
+Es hat etwas mit Hundert und Division zu tun.
+
+617
+00:40:50,820 --> 00:40:52,780
+Ich war nie gut in Division.
+
+618
+00:40:52,780 --> 00:40:55,020
+2%? Was heißt das?
+
+619
+00:40:55,220 --> 00:41:02,700
+Wenn Sie Leuten sagen, dass die Inflationsrate 2% ist, dann antworten sie: "2%, 10%, 5%. Ich verstehe das eh nicht so wirklich."
+
+620
+00:41:02,700 --> 00:41:07,779
+Lassen Sie uns das anders ausdrücken: "In 10 Jahren wird die Hälfte Ihres Geldes weg sein!"
+
+621
+00:41:07,780 --> 00:41:12,480
+"Heilige Scheiße! Jetzt verstehe ich das!"
+
+622
+00:41:12,480 --> 00:41:18,020
+"Ich habe gespart wie verrückt, ich habe 2 Jobs und werde schlecht bezahlt."
+
+623
+00:41:18,020 --> 00:41:23,780
+"Und die Hälfte wird weg sein!? Wohin geht es? Wer nimmt es mir weg?"
+
+624
+00:41:23,780 --> 00:41:26,240
+"Fangt diese Diebe!"
+
+625
+00:41:26,260 --> 00:41:29,820
+"Oh mein Gott! Sie nehmen mir die Hälfte meines Geldes in 10 Jahren weg?"
+
+626
+00:41:30,680 --> 00:41:32,819
+Die INFLATION nimmt dir dein Geld weg.
+
+627
+00:41:32,940 --> 00:41:34,660
+Genauer gesagt:
+
+628
+00:41:35,140 --> 00:41:41,299
+Regierungen, Konzerne, Banken, die tief in den Schulden stecken, nehmen sich Ihr Geld mittels Inflation.
+
+629
+00:41:41,640 --> 00:41:47,640
+Denn nun ist das Geld, welches sie schulden, in 10 Jahren ebenfalls nur halb so viel wert.
+
+630
+00:41:47,640 --> 00:41:49,640
+Was für ein brillantes Konstrukt!
+
+631
+00:41:52,420 --> 00:41:57,380
+An dieser Stelle erkennen wir den fundamentalen Unterschied zwischen Bitcoin und traditionellem Geld.
+
+632
+00:41:57,600 --> 00:42:04,460
+Bitcoin ist Geld, Bitcoin ist ein Wertspeicher, Bitcoin ist ein Tauschmittel, Bitcoin kann eine Recheneinheit sein.
+
+633
+00:42:04,660 --> 00:42:08,540
+Diese Eigenschaft erwirbt es allmählich, wenn es stabiler wächst,
+
+634
+00:42:08,540 --> 00:42:10,779
+besser etabliert ist und besser angenommen wird.
+
+635
+00:42:10,780 --> 00:42:19,220
+Je mehr Leute am Austausch von Werten durch Bitcoin teilnehmen, desto schneller bringen sie eine wertschaffende Wirtschaft hervor.
+
+636
+00:42:20,380 --> 00:42:26,060
+Der Wert erzeugt Stabilität, Liquidität, reduziert die Volatilität
+
+637
+00:42:26,060 --> 00:42:31,460
+und macht es damit zu einem Tauschmittel für immer kleinere Einkäufe.
+
+638
+00:42:31,460 --> 00:42:34,020
+Es eignet sich immer besser als Wertspeicher.
+
+639
+00:42:34,100 --> 00:42:39,040
+Je mehr es sich als Tauschmittel und Wertspeicher etabliert, desto höher ist die Umlaufgeschwindigkeit.
+
+640
+00:42:39,040 --> 00:42:43,420
+Die selbe Einheit wird also mehrfach von verschiedenen Personen in mehreren Transaktionen bewegt.
+
+641
+00:42:43,600 --> 00:42:49,520
+Letztendlich stabilisiert sich der Wert so sehr, dass es eine Rechnungseinheit werden kann
+
+642
+00:42:49,600 --> 00:42:53,940
+und man sagen würde: "Dieser Vortrag ist einen halben Bitcoin wert."
+
+643
+00:42:54,240 --> 00:42:57,620
+Ich mache keine Preise mehr in Dollar, sondern in Rupien.
+
+644
+00:42:57,620 --> 00:43:01,520
+Derzeit kann ich es wegen der Volatilität noch nicht machen, aber eines Tages wird es möglich sein.
+
+645
+00:43:01,520 --> 00:43:05,080
+Eines Tages wird man Bitcoins in Bitcoins bewerten.
+
+646
+00:43:05,500 --> 00:43:09,240
+Die Leute fragen: "Wie viel ist ein Bitcoin wert?"
+
+647
+00:43:11,120 --> 00:43:14,220
+Die richtige Antwort lautet: "1000 Millibits."
+
+648
+00:43:14,720 --> 00:43:20,220
+Eines Tages lautet die Frage nicht mehr: "Wie viel ist ein Bitcoin wert?"
+
+649
+00:43:20,640 --> 00:43:23,440
+Die Frage wird lauten: "Wie viel ist eine Rupie wert?"
+
+650
+00:43:23,940 --> 00:43:26,600
+Und dann werde ich sagen: "1 Mikrobit."
+
+651
+00:43:27,220 --> 00:43:29,839
+In diesem Moment wird klar, dass sich die Dinge geändert haben.
+
+652
+00:43:29,840 --> 00:43:34,700
+Das wird erst sehr langsam und dann ganz plötzlich geschehen.
+
+653
+00:43:35,700 --> 00:43:38,680
+Eine globale Währung hat etwas ganz Besonderes:
+
+654
+00:43:38,680 --> 00:43:40,660
+Das gleicht einem Zaubertrick.
+
+655
+00:43:40,660 --> 00:43:44,859
+21 Millionen. Das ist die mathematisch festgelegte Grenze.
+
+656
+00:43:44,860 --> 00:43:47,380
+Das können nicht viele Währungen.
+
+657
+00:43:48,880 --> 00:43:55,760
+Es gibt nur eine Sache auf der Welt, die die Eigenschaft des geometrisch abnehmenden Angebots teilt,
+
+658
+00:43:55,860 --> 00:43:59,440
+die nicht geändert werden kann, egal wie sehr man es versucht.
+
+659
+00:43:59,540 --> 00:44:03,820
+Je mehr Wert man herausziehen will, desto schwieriger wird es.
+
+660
+00:44:04,060 --> 00:44:05,840
+Und das ist Gold!
+
+661
+00:44:06,320 --> 00:44:10,440
+Mal davon abgesehen, dass man Gold nicht per E-Mail senden kann. Bitcoin hingegen schon.
+
+662
+00:44:11,240 --> 00:44:13,839
+Plötzlich erkennen Sie,
+
+663
+00:44:14,080 --> 00:44:21,040
+dass diese Sache eine größere Auswirkung haben kann, als wir uns alle vorstellen können.
+
+664
+00:44:22,340 --> 00:44:25,400
+Leute werden darauf zeigen und sagen:
+
+665
+00:44:25,400 --> 00:44:27,060
+"Das ist Falschgeld."
+
+666
+00:44:27,840 --> 00:44:29,420
+"Es ist nicht real."
+
+667
+00:44:30,760 --> 00:44:37,940
+Der Markt wird dem einen Wert geben und dieser Wert dann schlussendlich die Wahrheit.
+
+668
+00:44:38,560 --> 00:44:45,700
+Man kann Kapitalkontrollen, Propaganda, Lügen, Beschränkungen, Gesetze benutzen...
+
+669
+00:44:45,940 --> 00:44:50,060
+Wir beobachten derzeit all diese Dinge in Venezuela.
+
+670
+00:44:50,180 --> 00:44:54,160
+Man zeigt auf Bitcoin und sagt: "Das ist Falschgeld!"
+
+671
+00:44:55,040 --> 00:45:02,380
+Und jeder, der dort mit Bitcoin zu tun hat, zeigt hingegen auf Venezuela und sagt: "Oh nein, ihr habt Falschgeld!"
+
+672
+00:45:03,200 --> 00:45:04,399
+"Dieser Shit ist real!"
+
+673
+00:45:05,340 --> 00:45:07,460
+"... denn ich kann damit Essen kaufen."
+
+674
+00:45:07,520 --> 00:45:13,360
+"... von Amazon, nach Kolumbien geliefert und über die Grenze geschmuggelt. Aber ich kann ich mir damit immer noch Essen kaufen."
+
+675
+00:45:13,400 --> 00:45:17,560
+Das "Falschgeld-Problem" kann vom Markt gelöst werden.
+
+676
+00:45:17,980 --> 00:45:19,900
+Wir befinden uns ganz am Anfang.
+
+677
+00:45:19,900 --> 00:45:24,940
+Es ist keine Investitionsmöglichkeit und auch kein Schnell-reich-werden-Programm.
+
+678
+00:45:25,160 --> 00:45:26,740
+Dies ist eine Technologie.
+
+679
+00:45:26,860 --> 00:45:32,560
+Es ist eine Technologie, die radikale, disruptive Auswirkungen auf die ganze Welt hat.
+
+680
+00:45:32,580 --> 00:45:35,319
+Zum ersten Mal in der Geschichte der Menschheit
+
+681
+00:45:35,320 --> 00:45:40,700
+besteht die Möglichkeit des freien Geldflusses zwischen jedem, überall und jederzeit,
+
+682
+00:45:40,700 --> 00:45:45,680
+ohne jegliche Einschränkungen, Kontrolle oder zentraler Autorität.
+
+683
+00:45:45,780 --> 00:45:51,800
+Es schafft die Möglichkeit des FREIEN GELDFLUSSES für die GESAMTE MENSCHHEIT.
+
+684
+00:45:52,380 --> 00:45:56,260
+Die Nutzung dieser Technologie wird schwierig sein,
+
+685
+00:45:56,260 --> 00:46:01,280
+es wird seltsam sein, es werden Angriffe, Hacks und Fehler geben,
+
+686
+00:46:01,520 --> 00:46:06,140
+genau wie das in weiten Teilen des Internets regelmäßig der Fall ist.
+
+687
+00:46:07,140 --> 00:46:11,160
+Einige der Unternehmen in diesem Bereich werden in 10 Jahren nicht mehr existieren.
+
+688
+00:46:11,720 --> 00:46:13,959
+Das passierte bereits mit dem Internet.
+
+689
+00:46:13,980 --> 00:46:19,280
+Im Jahr 2000 verschwanden 90% aller Unternehmen in diesem Bereich,
+
+690
+00:46:19,400 --> 00:46:22,660
+im Zuge eines einzelnen Börsencrashs.
+
+691
+00:46:23,200 --> 00:46:25,439
+Aber das Internet verschwand nicht.
+
+692
+00:46:25,860 --> 00:46:29,240
+Neue Unternehmen begegründeten die nächste Generation.
+
+693
+00:46:29,280 --> 00:46:32,240
+Das wird mit digitalen Währungen ebenfalls geschehen.
+
+694
+00:46:32,280 --> 00:46:34,060
+Vielleicht ändern sich die Namen,
+
+695
+00:46:34,160 --> 00:46:37,240
+vielleicht ändern sich die beteiligten Unternehmen,
+
+696
+00:46:37,340 --> 00:46:39,620
+gewiss ändert sich die Technologie
+
+697
+00:46:40,740 --> 00:46:42,140
+und schlussendlich
+
+698
+00:46:42,240 --> 00:46:45,040
+werden digitalen Währungen kommen.
+
+699
+00:46:45,040 --> 00:46:51,080
+Sie sind bereits da und werden ein fundamentale Rolle in der Zukunft der Menschheit einnehmen
+
+700
+00:46:51,080 --> 00:46:58,220
+und absolut nichts kann das aufhalten, denn es ist bereits geschehen.
+
+701
+00:46:58,220 --> 00:46:59,000
+Danke.
+
