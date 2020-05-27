@@ -23,6 +23,7 @@
     "google-spreadsheet": "^2.0.8",
     "request": "^2.88.0",
     "url-parse": "^1.4.7",
+    "web3": "^1.2.7",
     "xmlhttprequest": "^1.8.0"
   }
 }
